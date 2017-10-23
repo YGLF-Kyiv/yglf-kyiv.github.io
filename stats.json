@@ -1,38 +1,50 @@
 {
   "assetsByChunkName": {
+    "path---invitiation-a-111": [
+      "path---invitiation-a-111-d9b2eea1d6c53a287527.js",
+      "path---invitiation-a-111-d9b2eea1d6c53a287527.js.map"
+    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-9e33ddfcea683b80cf58.js",
-      "component---src-pages-index-js-9e33ddfcea683b80cf58.js.map"
+      "component---src-pages-index-js-2ef6a6aa66c183e2ab89.js",
+      "component---src-pages-index-js-2ef6a6aa66c183e2ab89.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-82f4f5c18cf1d93e02e4.js",
-      "component---src-layouts-index-js-82f4f5c18cf1d93e02e4.js.map"
+      "component---src-layouts-index-js-df1ca3a8357fa9353153.js",
+      "component---src-layouts-index-js-df1ca3a8357fa9353153.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-404-js": [
-      "component---src-pages-404-js-bafe40c35a3beb6802f0.js",
-      "component---src-pages-404-js-bafe40c35a3beb6802f0.js.map"
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-4bfc4b8d2f5c6c7b13d4.js",
-      "commons-4bfc4b8d2f5c6c7b13d4.js.map"
+      "commons-7244c7bf147d6099d794.js",
+      "commons-7244c7bf147d6099d794.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-b0a4f8d6b0bedded0c4b.js",
+      "app-a084f06a8ac4e319d2c7.js",
       "build-js-styles.css",
-      "app-b0a4f8d6b0bedded0c4b.js.map",
+      "app-a084f06a8ac4e319d2c7.js.map",
       "build-js-styles.css.map"
+    ],
+    "component---src-templates-invitation-js": [
+      "component---src-templates-invitation-js-676c1a2192d126ddf030.js",
+      "component---src-templates-invitation-js-676c1a2192d126ddf030.js.map"
+    ],
+    "path---invitiation-a-222": [
+      "path---invitiation-a-222-cbc52aaccb3957001164.js",
+      "path---invitiation-a-222-cbc52aaccb3957001164.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",

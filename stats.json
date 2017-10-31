@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-3966e733d3c724167ada.js",
-      "component---src-pages-index-js-3966e733d3c724167ada.js.map"
+      "component---src-pages-index-js-79b46b7694231283eedb.js",
+      "component---src-pages-index-js-79b46b7694231283eedb.js.map"
     ],
     "path---invitation-a-222": [
       "path---invitation-a-222-cbc52aaccb3957001164.js",
@@ -13,12 +13,12 @@
       "path---invitation-a-111-d9b2eea1d6c53a287527.js.map"
     ],
     "path---": [
-      "path----557518bd178906f8d58a.js",
-      "path----557518bd178906f8d58a.js.map"
+      "path----131f9aef94525eeb6ecd.js",
+      "path----131f9aef94525eeb6ecd.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-4bd5d1896c9e1bae25f8.js",
-      "component---src-layouts-index-js-4bd5d1896c9e1bae25f8.js.map"
+      "component---src-layouts-index-js-6148a05033a432819491.js",
+      "component---src-layouts-index-js-6148a05033a432819491.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -29,17 +29,17 @@
       "component---src-pages-404-js-212a69869598340455da.js.map"
     ],
     "commons": [
-      "commons-0195cce529a2afc0f87e.js",
-      "commons-0195cce529a2afc0f87e.js.map"
+      "commons-7244c7bf147d6099d794.js",
+      "commons-7244c7bf147d6099d794.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-90e6ab2ed5162026b600.js",
+      "app-116af93134fa26107234.js",
       "build-js-styles.css",
-      "app-90e6ab2ed5162026b600.js.map",
+      "app-116af93134fa26107234.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-invitation-js": [
@@ -49,6 +49,10 @@
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-layouts-simple-js": [
+      "component---src-layouts-simple-js-b1030799ea3d0bc3b6eb.js",
+      "component---src-layouts-simple-js-b1030799ea3d0bc3b6eb.js.map"
     ]
   }
 }

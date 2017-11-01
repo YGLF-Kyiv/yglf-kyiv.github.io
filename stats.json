@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-79b46b7694231283eedb.js",
-      "component---src-pages-index-js-79b46b7694231283eedb.js.map"
+      "component---src-pages-index-js-7aa214cf9fcb1d687c5d.js",
+      "component---src-pages-index-js-7aa214cf9fcb1d687c5d.js.map"
     ],
     "path---invitation-a-222": [
       "path---invitation-a-222-cbc52aaccb3957001164.js",
@@ -21,8 +21,12 @@
       "path----131f9aef94525eeb6ecd.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-e84958604abd4f1e2939.js",
-      "component---src-layouts-index-js-e84958604abd4f1e2939.js.map"
+      "component---src-layouts-index-js-00000f0718f468d8d132.js",
+      "component---src-layouts-index-js-00000f0718f468d8d132.js.map"
+    ],
+    "path---invitation-a-222-video": [
+      "path---invitation-a-222-video-12ef9e60512307f7742e.js",
+      "path---invitation-a-222-video-12ef9e60512307f7742e.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -33,30 +37,38 @@
       "component---src-pages-404-js-afb1a17524f70a98bd33.js.map"
     ],
     "commons": [
-      "commons-0195cce529a2afc0f87e.js",
-      "commons-0195cce529a2afc0f87e.js.map"
+      "commons-7244c7bf147d6099d794.js",
+      "commons-7244c7bf147d6099d794.js.map"
+    ],
+    "path---invitation-sarah-drasner-video": [
+      "path---invitation-sarah-drasner-video-dfc16a36f970e66a99a0.js",
+      "path---invitation-sarah-drasner-video-dfc16a36f970e66a99a0.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-2817333c0f60c15c71c6.js",
+      "app-31b5ab754d7537da723b.js",
       "build-js-styles.css",
-      "app-2817333c0f60c15c71c6.js.map",
+      "app-31b5ab754d7537da723b.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-invitation-js": [
-      "component---src-templates-invitation-js-e626571da7c652edb495.js",
-      "component---src-templates-invitation-js-e626571da7c652edb495.js.map"
+      "component---src-templates-invitation-js-aae970aa7388e0b17953.js",
+      "component---src-templates-invitation-js-aae970aa7388e0b17953.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---invitation-a-111-video": [
+      "path---invitation-a-111-video-82a54a7b39e51163b6de.js",
+      "path---invitation-a-111-video-82a54a7b39e51163b6de.js.map"
+    ],
     "component---src-layouts-simple-js": [
-      "component---src-layouts-simple-js-6aeb500d49b4f81b1edb.js",
-      "component---src-layouts-simple-js-6aeb500d49b4f81b1edb.js.map"
+      "component---src-layouts-simple-js-963aa32018b4dc38be9b.js",
+      "component---src-layouts-simple-js-963aa32018b4dc38be9b.js.map"
     ]
   }
 }

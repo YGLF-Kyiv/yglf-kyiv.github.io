@@ -1,0 +1,2 @@
+webpackJsonp([0xeb75b690fab8],{"./node_modules/json-loader/index.js!./.cache/json/invitation-a-111-video.json":function(o,e){o.exports={data:{invitation:{id:"john",path:"a111",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"John Dow",text:"Some Special Text"}},pathContext:{path:"a111",track:!0}}}});
+//# sourceMappingURL=path---invitation-a-111-video-82a54a7b39e51163b6de.js.map

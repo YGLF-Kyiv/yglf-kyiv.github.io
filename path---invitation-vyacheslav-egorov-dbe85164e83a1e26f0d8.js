@@ -1,0 +1,2 @@
+webpackJsonp([0xd31d75f1a66a],{365:function(a,e){a.exports={data:{invitation:{id:"vyacheslav_egorov",path:"vyacheslav_egorov",video:"https://www.youtube.com/embed/ypLI1n0qe_E",name:"Vyacheslav Egorov"}},pathContext:{path:"vyacheslav_egorov"}}}});
+//# sourceMappingURL=path---invitation-vyacheslav-egorov-dbe85164e83a1e26f0d8.js.map

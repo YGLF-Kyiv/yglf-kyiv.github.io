@@ -1,58 +1,114 @@
 {
   "assetsByChunkName": {
+    "path---invitation-rich-harris-video": [
+      "path---invitation-rich-harris-video-b93b68765ec3049f5929.js",
+      "path---invitation-rich-harris-video-b93b68765ec3049f5929.js.map"
+    ],
+    "path---invitation-dr-axel-rauschmayer-video": [
+      "path---invitation-dr-axel-rauschmayer-video-e40387649d76013e3512.js",
+      "path---invitation-dr-axel-rauschmayer-video-e40387649d76013e3512.js.map"
+    ],
+    "path---invitation-dr-axel-rauschmayer": [
+      "path---invitation-dr-axel-rauschmayer-574cf41b469985cf3db3.js",
+      "path---invitation-dr-axel-rauschmayer-574cf41b469985cf3db3.js.map"
+    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-7aa214cf9fcb1d687c5d.js",
       "component---src-pages-index-js-7aa214cf9fcb1d687c5d.js.map"
     ],
-    "path---invitation-a-222": [
-      "path---invitation-a-222-cbc52aaccb3957001164.js",
-      "path---invitation-a-222-cbc52aaccb3957001164.js.map"
+    "path---invitation-tom-dale-video": [
+      "path---invitation-tom-dale-video-c0fa43b416902bc04f81.js",
+      "path---invitation-tom-dale-video-c0fa43b416902bc04f81.js.map"
     ],
-    "path---invitation-a-111": [
-      "path---invitation-a-111-6a4ac7e74912cccf5dd6.js",
-      "path---invitation-a-111-6a4ac7e74912cccf5dd6.js.map"
+    "path---invitation-lin-clark": [
+      "path---invitation-lin-clark-0a38dadd60cdfcf26a57.js",
+      "path---invitation-lin-clark-0a38dadd60cdfcf26a57.js.map"
     ],
     "path---invitation-sarah-drasner": [
-      "path---invitation-sarah-drasner-9c64bfd3289d9b996afe.js",
-      "path---invitation-sarah-drasner-9c64bfd3289d9b996afe.js.map"
+      "path---invitation-sarah-drasner-611c5303c9c832440f84.js",
+      "path---invitation-sarah-drasner-611c5303c9c832440f84.js.map"
     ],
     "path---": [
       "path----131f9aef94525eeb6ecd.js",
       "path----131f9aef94525eeb6ecd.js.map"
     ],
-    "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-00000f0718f468d8d132.js",
-      "component---src-layouts-index-js-00000f0718f468d8d132.js.map"
+    "path---invitation-james-long-video": [
+      "path---invitation-james-long-video-b7ee239d4e6ac82c4ae0.js",
+      "path---invitation-james-long-video-b7ee239d4e6ac82c4ae0.js.map"
     ],
-    "path---invitation-a-222-video": [
-      "path---invitation-a-222-video-12ef9e60512307f7742e.js",
-      "path---invitation-a-222-video-12ef9e60512307f7742e.js.map"
+    "path---invitation-lin-clark-video": [
+      "path---invitation-lin-clark-video-502646737787260e64d8.js",
+      "path---invitation-lin-clark-video-502646737787260e64d8.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-ec3d2b618a39e05f2511.js",
+      "component---src-layouts-index-js-ec3d2b618a39e05f2511.js.map"
+    ],
+    "path---invitation-rich-harris": [
+      "path---invitation-rich-harris-cd151c7c2aacaa88093c.js",
+      "path---invitation-rich-harris-cd151c7c2aacaa88093c.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---invitation-tom-dale": [
+      "path---invitation-tom-dale-cea1fd8c4582ed5cef60.js",
+      "path---invitation-tom-dale-cea1fd8c4582ed5cef60.js.map"
+    ],
+    "path---invitation-james-long": [
+      "path---invitation-james-long-0ce5a7a31efeb3b5dca0.js",
+      "path---invitation-james-long-0ce5a7a31efeb3b5dca0.js.map"
+    ],
+    "path---invitation-sean-larkin-video": [
+      "path---invitation-sean-larkin-video-0712231db5ab99ebe549.js",
+      "path---invitation-sean-larkin-video-0712231db5ab99ebe549.js.map"
+    ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-afb1a17524f70a98bd33.js",
       "component---src-pages-404-js-afb1a17524f70a98bd33.js.map"
     ],
+    "path---invitation-vitaly-friedman-video": [
+      "path---invitation-vitaly-friedman-video-5df86ec48c82e3cb36fe.js",
+      "path---invitation-vitaly-friedman-video-5df86ec48c82e3cb36fe.js.map"
+    ],
+    "path---invitation-mark-dalgleish": [
+      "path---invitation-mark-dalgleish-0fa7e4104779ec6a9d01.js",
+      "path---invitation-mark-dalgleish-0fa7e4104779ec6a9d01.js.map"
+    ],
     "commons": [
-      "commons-7244c7bf147d6099d794.js",
-      "commons-7244c7bf147d6099d794.js.map"
+      "commons-d8657125f551ea8dd83f.js",
+      "commons-d8657125f551ea8dd83f.js.map"
+    ],
+    "path---invitation-sean-larkin": [
+      "path---invitation-sean-larkin-884ae198305e544a9d7a.js",
+      "path---invitation-sean-larkin-884ae198305e544a9d7a.js.map"
     ],
     "path---invitation-sarah-drasner-video": [
-      "path---invitation-sarah-drasner-video-dfc16a36f970e66a99a0.js",
-      "path---invitation-sarah-drasner-video-dfc16a36f970e66a99a0.js.map"
+      "path---invitation-sarah-drasner-video-d8e4db96bbfb5544f786.js",
+      "path---invitation-sarah-drasner-video-d8e4db96bbfb5544f786.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---invitation-vitaly-friedman": [
+      "path---invitation-vitaly-friedman-12c92ad492027c2f1cc5.js",
+      "path---invitation-vitaly-friedman-12c92ad492027c2f1cc5.js.map"
+    ],
+    "path---invitation-vyacheslav-egorov-video": [
+      "path---invitation-vyacheslav-egorov-video-5da73e22dd09919a81e5.js",
+      "path---invitation-vyacheslav-egorov-video-5da73e22dd09919a81e5.js.map"
+    ],
     "app": [
-      "app-31b5ab754d7537da723b.js",
+      "app-93459b79af8fc07840f5.js",
       "build-js-styles.css",
-      "app-31b5ab754d7537da723b.js.map",
+      "app-93459b79af8fc07840f5.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---invitation-vyacheslav-egorov": [
+      "path---invitation-vyacheslav-egorov-dbe85164e83a1e26f0d8.js",
+      "path---invitation-vyacheslav-egorov-dbe85164e83a1e26f0d8.js.map"
     ],
     "component---src-templates-invitation-js": [
       "component---src-templates-invitation-js-aae970aa7388e0b17953.js",
@@ -62,13 +118,13 @@
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---invitation-a-111-video": [
-      "path---invitation-a-111-video-82a54a7b39e51163b6de.js",
-      "path---invitation-a-111-video-82a54a7b39e51163b6de.js.map"
+    "path---invitation-mark-dalgleish-video": [
+      "path---invitation-mark-dalgleish-video-cd37eb9c5e78d0b45dd5.js",
+      "path---invitation-mark-dalgleish-video-cd37eb9c5e78d0b45dd5.js.map"
     ],
     "component---src-layouts-simple-js": [
-      "component---src-layouts-simple-js-963aa32018b4dc38be9b.js",
-      "component---src-layouts-simple-js-963aa32018b4dc38be9b.js.map"
+      "component---src-layouts-simple-js-b1e54e008c33b86e1c40.js",
+      "component---src-layouts-simple-js-b1e54e008c33b86e1c40.js.map"
     ]
   }
 }

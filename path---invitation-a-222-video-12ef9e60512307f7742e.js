@@ -1,2 +1,0 @@
-webpackJsonp([0x786504415873],{"./node_modules/json-loader/index.js!./.cache/json/invitation-a-222-video.json":function(o,t){o.exports={data:{invitation:{id:"rob",path:"a222",video:"https://www.youtube.com/embed/9aklMvoMVu8",name:"Rob Harris",text:"Some Special Text For Rob"}},pathContext:{path:"a222",track:!0}}}});
-//# sourceMappingURL=path---invitation-a-222-video-12ef9e60512307f7742e.js.map

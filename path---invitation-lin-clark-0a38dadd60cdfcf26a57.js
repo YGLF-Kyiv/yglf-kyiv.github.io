@@ -1,2 +1,2 @@
-webpackJsonp([44988199827214],{351:function(t,a){t.exports={data:{invitation:{id:"lin_clark",path:"lin_clark",video:"https://www.youtube.com/embed/nf4Vgg95rmw",name:"Lin Clark"}},pathContext:{path:"lin_clark"}}}});
+webpackJsonp([44988199827214],{349:function(t,a){t.exports={data:{invitation:{id:"lin_clark",path:"lin_clark",video:"https://www.youtube.com/embed/nf4Vgg95rmw",name:"Lin Clark"}},pathContext:{path:"lin_clark"}}}});
 //# sourceMappingURL=path---invitation-lin-clark-0a38dadd60cdfcf26a57.js.map

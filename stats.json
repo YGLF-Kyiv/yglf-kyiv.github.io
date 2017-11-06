@@ -4,13 +4,9 @@
       "path---invitation-rich-harris-video-b93b68765ec3049f5929.js",
       "path---invitation-rich-harris-video-b93b68765ec3049f5929.js.map"
     ],
-    "path---invitation-dr-axel-rauschmayer-video": [
-      "path---invitation-dr-axel-rauschmayer-video-e40387649d76013e3512.js",
-      "path---invitation-dr-axel-rauschmayer-video-e40387649d76013e3512.js.map"
-    ],
-    "path---invitation-dr-axel-rauschmayer": [
-      "path---invitation-dr-axel-rauschmayer-574cf41b469985cf3db3.js",
-      "path---invitation-dr-axel-rauschmayer-574cf41b469985cf3db3.js.map"
+    "path---invitation-paul-irish-video": [
+      "path---invitation-paul-irish-video-8596b796a025f46f2cc6.js",
+      "path---invitation-paul-irish-video-8596b796a025f46f2cc6.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-7aa214cf9fcb1d687c5d.js",
@@ -32,10 +28,6 @@
       "path----131f9aef94525eeb6ecd.js",
       "path----131f9aef94525eeb6ecd.js.map"
     ],
-    "path---invitation-james-long-video": [
-      "path---invitation-james-long-video-b7ee239d4e6ac82c4ae0.js",
-      "path---invitation-james-long-video-b7ee239d4e6ac82c4ae0.js.map"
-    ],
     "path---invitation-lin-clark-video": [
       "path---invitation-lin-clark-video-502646737787260e64d8.js",
       "path---invitation-lin-clark-video-502646737787260e64d8.js.map"
@@ -48,6 +40,10 @@
       "path---invitation-rich-harris-cd151c7c2aacaa88093c.js",
       "path---invitation-rich-harris-cd151c7c2aacaa88093c.js.map"
     ],
+    "path---invitation-lea-verou-video": [
+      "path---invitation-lea-verou-video-17cc54871c4c9202c709.js",
+      "path---invitation-lea-verou-video-17cc54871c4c9202c709.js.map"
+    ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
@@ -55,10 +51,6 @@
     "path---invitation-tom-dale": [
       "path---invitation-tom-dale-cea1fd8c4582ed5cef60.js",
       "path---invitation-tom-dale-cea1fd8c4582ed5cef60.js.map"
-    ],
-    "path---invitation-james-long": [
-      "path---invitation-james-long-0ce5a7a31efeb3b5dca0.js",
-      "path---invitation-james-long-0ce5a7a31efeb3b5dca0.js.map"
     ],
     "path---invitation-sean-larkin-video": [
       "path---invitation-sean-larkin-video-0712231db5ab99ebe549.js",
@@ -96,14 +88,22 @@
       "path---invitation-vitaly-friedman-12c92ad492027c2f1cc5.js",
       "path---invitation-vitaly-friedman-12c92ad492027c2f1cc5.js.map"
     ],
+    "path---invitation-lea-verou": [
+      "path---invitation-lea-verou-50aececeaf7aaee01765.js",
+      "path---invitation-lea-verou-50aececeaf7aaee01765.js.map"
+    ],
+    "path---invitation-paul-irish": [
+      "path---invitation-paul-irish-8d3aeb42b1891b405c22.js",
+      "path---invitation-paul-irish-8d3aeb42b1891b405c22.js.map"
+    ],
     "path---invitation-vyacheslav-egorov-video": [
       "path---invitation-vyacheslav-egorov-video-5da73e22dd09919a81e5.js",
       "path---invitation-vyacheslav-egorov-video-5da73e22dd09919a81e5.js.map"
     ],
     "app": [
-      "app-93459b79af8fc07840f5.js",
+      "app-19a94431025ba4d43ae6.js",
       "build-js-styles.css",
-      "app-93459b79af8fc07840f5.js.map",
+      "app-19a94431025ba4d43ae6.js.map",
       "build-js-styles.css.map"
     ],
     "path---invitation-vyacheslav-egorov": [

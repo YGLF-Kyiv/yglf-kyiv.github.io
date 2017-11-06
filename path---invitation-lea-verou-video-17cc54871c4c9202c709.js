@@ -1,2 +1,0 @@
-webpackJsonp([0x7a8b537957f7],{346:function(e,a){e.exports={data:{invitation:{id:"lea_verou",path:"lea_verou",video:"https://www.youtube.com/embed/Mv3zkApAQjs",name:"Lea Verou"}},pathContext:{path:"lea_verou",track:!0}}}});
-//# sourceMappingURL=path---invitation-lea-verou-video-17cc54871c4c9202c709.js.map

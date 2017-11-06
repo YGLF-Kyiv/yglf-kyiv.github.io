@@ -1,2 +1,2 @@
-webpackJsonp([0xc05d7b4a9416],{347:function(e,a){e.exports={data:{invitation:{id:"lea_verou",path:"lea_verou",video:"https://www.youtube.com/embed/Mv3zkApAQjs",name:"Lea"}},pathContext:{path:"lea_verou"}}}});
+webpackJsonp([0xc05d7b4a9416],{375:function(e,a){e.exports={data:{invitation:{id:"lea_verou",path:"lea_verou",video:"https://www.youtube.com/embed/Mv3zkApAQjs",name:"Lea"}},pathContext:{path:"lea_verou"}}}});
 //# sourceMappingURL=path---invitation-lea-verou-9c8635124718cac24d54.js.map

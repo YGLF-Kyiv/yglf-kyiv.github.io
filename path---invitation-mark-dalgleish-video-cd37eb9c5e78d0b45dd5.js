@@ -1,2 +1,0 @@
-webpackJsonp([0xec91552a979f],{350:function(a,t){a.exports={data:{invitation:{id:"mark_dalgleish",path:"mark_dalgleish",video:"https://www.youtube.com/embed/X5gkM5tIKHk",name:"Mark Dalgleish"}},pathContext:{path:"mark_dalgleish",track:!0}}}});
-//# sourceMappingURL=path---invitation-mark-dalgleish-video-cd37eb9c5e78d0b45dd5.js.map

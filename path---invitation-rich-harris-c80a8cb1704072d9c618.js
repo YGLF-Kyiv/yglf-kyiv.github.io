@@ -1,2 +1,2 @@
-webpackJsonp([0x79335cddf14f],{355:function(i,t){i.exports={data:{invitation:{id:"rich_harris",path:"rich_harris",video:"https://www.youtube.com/embed/TWW-PMvFXBU",name:"Rich"}},pathContext:{path:"rich_harris"}}}});
+webpackJsonp([0x79335cddf14f],{383:function(i,t){i.exports={data:{invitation:{id:"rich_harris",path:"rich_harris",video:"https://www.youtube.com/embed/TWW-PMvFXBU",name:"Rich"}},pathContext:{path:"rich_harris"}}}});
 //# sourceMappingURL=path---invitation-rich-harris-c80a8cb1704072d9c618.js.map

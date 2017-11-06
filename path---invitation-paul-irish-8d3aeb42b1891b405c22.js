@@ -1,2 +1,0 @@
-webpackJsonp([0xcbaadba3076b],{353:function(a,i){a.exports={data:{invitation:{id:"paul_irish",path:"paul_irish",video:"https://www.youtube.com/embed/YBRkMMeiQhc",name:"Paul Irish"}},pathContext:{path:"paul_irish"}}}});
-//# sourceMappingURL=path---invitation-paul-irish-8d3aeb42b1891b405c22.js.map

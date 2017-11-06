@@ -1,2 +1,0 @@
-webpackJsonp([0x8da3d52bbb79],{361:function(t,a){t.exports={data:{invitation:{id:"tom_dale",path:"tom_dale",video:"https://www.youtube.com/embed/lZcK17EtSLQ",name:"Tom Dale"}},pathContext:{path:"tom_dale"}}}});
-//# sourceMappingURL=path---invitation-tom-dale-cea1fd8c4582ed5cef60.js.map

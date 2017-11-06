@@ -1,0 +1,2 @@
+webpackJsonp([0xd7d01872d03b],{363:function(i,n){i.exports={data:{invitation:{id:"chris_heilmann",path:"chris_heilmann",video:"https://www.youtube.com/embed/xS_InrriMDM",name:"Chris"}},pathContext:{path:"chris_heilmann"}}}});
+//# sourceMappingURL=path---invitation-chris-heilmann-61034b81fa2965df36ed.js.map

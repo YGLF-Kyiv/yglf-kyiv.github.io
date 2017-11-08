@@ -1,2 +1,2 @@
-webpackJsonp([0xbbf1c6497298],{"./node_modules/json-loader/index.js!./.cache/json/invitation-andre-staltz-video.json":function(t,a){t.exports={data:{invitation:{id:"andre_staltz",path:"andre_staltz",video:"https://www.youtube.com/embed/6Ka0uZr09CQ",name:"Andre"}},pathContext:{path:"andre_staltz",track:!0}}}});
+webpackJsonp([0xbbf1c6497298],{404:function(t,a){t.exports={data:{invitation:{id:"andre_staltz",path:"andre_staltz",video:"https://www.youtube.com/embed/6Ka0uZr09CQ",name:"Andre"}},pathContext:{path:"andre_staltz",track:!0}}}});
 //# sourceMappingURL=path---invitation-andre-staltz-video-6a8b1621f829ee21fe7b.js.map

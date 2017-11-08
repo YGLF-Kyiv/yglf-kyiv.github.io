@@ -1,2 +1,2 @@
-webpackJsonp([0xeb77fa2ce6b4],{"./node_modules/json-loader/index.js!./.cache/json/invitation-mike-armstrong.json":function(e,t){e.exports={data:{invitation:{id:"mike_armstrong",path:"mike_armstrong",video:"https://www.youtube.com/embed/gxPHBEMNt9I",name:"Mike"}},pathContext:{path:"mike_armstrong"}}}});
+webpackJsonp([0xeb77fa2ce6b4],{447:function(t,e){t.exports={data:{invitation:{id:"mike_armstrong",path:"mike_armstrong",video:"https://www.youtube.com/embed/gxPHBEMNt9I",name:"Mike"}},pathContext:{path:"mike_armstrong"}}}});
 //# sourceMappingURL=path---invitation-mike-armstrong-08924cdf5e86f664f023.js.map

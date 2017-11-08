@@ -1,2 +1,2 @@
-webpackJsonp([23215107792953],{"./node_modules/json-loader/index.js!./.cache/json/invitation-nik-graf-video.json":function(n,a){n.exports={data:{invitation:{id:"nik_graf",path:"nik_graf",video:"https://www.youtube.com/embed/LlO3q3vOmNI",name:"Nik"}},pathContext:{path:"nik_graf",track:!0}}}});
+webpackJsonp([23215107792953],{450:function(t,a){t.exports={data:{invitation:{id:"nik_graf",path:"nik_graf",video:"https://www.youtube.com/embed/LlO3q3vOmNI",name:"Nik"}},pathContext:{path:"nik_graf",track:!0}}}});
 //# sourceMappingURL=path---invitation-nik-graf-video-2353300b0a57d8fc2bd2.js.map

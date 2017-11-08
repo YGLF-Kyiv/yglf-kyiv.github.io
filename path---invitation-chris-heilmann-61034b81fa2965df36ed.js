@@ -1,2 +1,2 @@
-webpackJsonp([0xd7d01872d03b],{"./node_modules/json-loader/index.js!./.cache/json/invitation-chris-heilmann.json":function(n,i){n.exports={data:{invitation:{id:"chris_heilmann",path:"chris_heilmann",video:"https://www.youtube.com/embed/xS_InrriMDM",name:"Chris"}},pathContext:{path:"chris_heilmann"}}}});
+webpackJsonp([0xd7d01872d03b],{411:function(i,n){i.exports={data:{invitation:{id:"chris_heilmann",path:"chris_heilmann",video:"https://www.youtube.com/embed/xS_InrriMDM",name:"Chris"}},pathContext:{path:"chris_heilmann"}}}});
 //# sourceMappingURL=path---invitation-chris-heilmann-61034b81fa2965df36ed.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0x6f32602c9c44],{"./node_modules/json-loader/index.js!./.cache/json/invitation-michel-weststrate-video.json":function(t,e){t.exports={data:{invitation:{id:"michel_weststrate",path:"michel_weststrate",video:"https://www.youtube.com/embed/bp1kNlfvQOY",name:"Michel"}},pathContext:{path:"michel_weststrate",track:!0}}}});
+webpackJsonp([0x6f32602c9c44],{444:function(t,e){t.exports={data:{invitation:{id:"michel_weststrate",path:"michel_weststrate",video:"https://www.youtube.com/embed/bp1kNlfvQOY",name:"Michel"}},pathContext:{path:"michel_weststrate",track:!0}}}});
 //# sourceMappingURL=path---invitation-michel-weststrate-video-a7c6191de84ac70f2645.js.map

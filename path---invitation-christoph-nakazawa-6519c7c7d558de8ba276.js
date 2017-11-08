@@ -1,0 +1,2 @@
+webpackJsonp([0xbb541769a92e],{"./node_modules/json-loader/index.js!./.cache/json/invitation-christoph-nakazawa.json":function(a,t){a.exports={data:{invitation:{id:"christoph_nakazawa",path:"christoph_nakazawa",video:"https://www.youtube.com/embed/RNvRQ4GtOVQ",name:"Christoph"}},pathContext:{path:"christoph_nakazawa"}}}});
+//# sourceMappingURL=path---invitation-christoph-nakazawa-6519c7c7d558de8ba276.js.map

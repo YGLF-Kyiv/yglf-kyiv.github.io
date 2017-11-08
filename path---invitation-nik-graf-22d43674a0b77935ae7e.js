@@ -1,0 +1,2 @@
+webpackJsonp([27383594240836],{"./node_modules/json-loader/index.js!./.cache/json/invitation-nik-graf.json":function(n,a){n.exports={data:{invitation:{id:"nik_graf",path:"nik_graf",video:"https://www.youtube.com/embed/LlO3q3vOmNI",name:"Nik"}},pathContext:{path:"nik_graf"}}}});
+//# sourceMappingURL=path---invitation-nik-graf-22d43674a0b77935ae7e.js.map

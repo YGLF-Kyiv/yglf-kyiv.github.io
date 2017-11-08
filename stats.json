@@ -76,6 +76,10 @@
       "path---invitation-stoyan-stefanov-video-bc73065a290cc2500e9a.js",
       "path---invitation-stoyan-stefanov-video-bc73065a290cc2500e9a.js.map"
     ],
+    "path---invitation-andrey-okonetchnikov": [
+      "path---invitation-andrey-okonetchnikov-4cbf430ec8c5db820544.js",
+      "path---invitation-andrey-okonetchnikov-4cbf430ec8c5db820544.js.map"
+    ],
     "path---invitation-james-long-video": [
       "path---invitation-james-long-video-9222fb21e23d9d22ec54.js",
       "path---invitation-james-long-video-9222fb21e23d9d22ec54.js.map"
@@ -97,8 +101,8 @@
       "path---invitation-addy-osmani-video-3a13b8bc134826466cf3.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-2689af14f59c125f6aec.js",
-      "component---src-layouts-index-js-2689af14f59c125f6aec.js.map"
+      "component---src-layouts-index-js-d23f1a91e332f1b5ac95.js",
+      "component---src-layouts-index-js-d23f1a91e332f1b5ac95.js.map"
     ],
     "path---invitation-kelsey-frijol": [
       "path---invitation-kelsey-frijol-47e92e07e1abe449935f.js",
@@ -265,9 +269,9 @@
       "path---invitation-max-stoiber-d8f65806a2d474dc4d3f.js.map"
     ],
     "app": [
-      "app-143e9a7b4b0f09931ae1.js",
+      "app-67713a390d29740ead8c.js",
       "build-js-styles.css",
-      "app-143e9a7b4b0f09931ae1.js.map",
+      "app-67713a390d29740ead8c.js.map",
       "build-js-styles.css.map"
     ],
     "path---invitation-vyacheslav-egorov": [
@@ -327,12 +331,16 @@
       "path---invitation-hui-jing-video-37a2898b3e3b0ca961e5.js.map"
     ],
     "component---src-layouts-simple-js": [
-      "component---src-layouts-simple-js-663d429a19e6198ef555.js",
-      "component---src-layouts-simple-js-663d429a19e6198ef555.js.map"
+      "component---src-layouts-simple-js-31e727d97c242d60a714.js",
+      "component---src-layouts-simple-js-31e727d97c242d60a714.js.map"
     ],
     "path---invitation-addy-osmani": [
       "path---invitation-addy-osmani-f48c83c5c441cd733b4a.js",
       "path---invitation-addy-osmani-f48c83c5c441cd733b4a.js.map"
+    ],
+    "path---invitation-andrey-okonetchnikov-video": [
+      "path---invitation-andrey-okonetchnikov-video-832608b715cf1d768ae0.js",
+      "path---invitation-andrey-okonetchnikov-video-832608b715cf1d768ae0.js.map"
     ]
   }
 }

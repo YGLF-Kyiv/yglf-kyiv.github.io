@@ -1,0 +1,2 @@
+webpackJsonp([0xd408461de1d2],{"./node_modules/json-loader/index.js!./.cache/json/invitiation-a-222.json":function(o,e){o.exports={data:{invitation:{id:"rob",path:"a222",video:"https://www.youtube.com/embed/9aklMvoMVu8",name:"Rob Harris",text:"Some Special Text For Rob"}},pathContext:{path:"a222"}}}});
+//# sourceMappingURL=path---invitiation-a-222-cbc52aaccb3957001164.js.map

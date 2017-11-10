@@ -1,2 +1,2 @@
-webpackJsonp([0x7a8b537957f7],{434:function(e,a){e.exports={data:{invitation:{id:"lea_verou",path:"lea_verou",video:"https://www.youtube.com/embed/Mv3zkApAQjs",name:"Lea"}},pathContext:{path:"lea_verou",track:!0}}}});
+webpackJsonp([0x7a8b537957f7],{"./node_modules/json-loader/index.js!./.cache/json/invitation-lea-verou-video.json":function(e,o){e.exports={data:{invitation:{id:"lea_verou",path:"lea_verou",video:"https://www.youtube.com/embed/Mv3zkApAQjs",name:"Lea"}},pathContext:{path:"lea_verou",track:!0}}}});
 //# sourceMappingURL=path---invitation-lea-verou-video-def549414cbd0bbcad40.js.map

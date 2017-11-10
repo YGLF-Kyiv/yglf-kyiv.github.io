@@ -1,2 +1,2 @@
-webpackJsonp([0xab789fcb9a62],{415:function(e,t){e.exports={data:{invitation:{id:"christopher_chedeau",path:"christopher_chedeau",video:"https://www.youtube.com/embed/ICW0mEMZKJA",name:"Christopher"}},pathContext:{path:"christopher_chedeau"}}}});
+webpackJsonp([0xab789fcb9a62],{"./node_modules/json-loader/index.js!./.cache/json/invitation-christopher-chedeau.json":function(e,o){e.exports={data:{invitation:{id:"christopher_chedeau",path:"christopher_chedeau",video:"https://www.youtube.com/embed/ICW0mEMZKJA",name:"Christopher"}},pathContext:{path:"christopher_chedeau"}}}});
 //# sourceMappingURL=path---invitation-christopher-chedeau-090022771b7d336b5efd.js.map

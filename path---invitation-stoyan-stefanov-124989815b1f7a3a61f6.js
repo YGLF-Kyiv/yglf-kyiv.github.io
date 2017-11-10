@@ -1,2 +1,2 @@
-webpackJsonp([0xe1f66ea0317c],{469:function(t,a){t.exports={data:{invitation:{id:"stoyan_stefanov",path:"stoyan_stefanov",video:"https://www.youtube.com/embed/S-d92y86AJ0",name:"Stoyan"}},pathContext:{path:"stoyan_stefanov"}}}});
+webpackJsonp([0xe1f66ea0317c],{"./node_modules/json-loader/index.js!./.cache/json/invitation-stoyan-stefanov.json":function(o,t){o.exports={data:{invitation:{id:"stoyan_stefanov",path:"stoyan_stefanov",video:"https://www.youtube.com/embed/S-d92y86AJ0",name:"Stoyan"}},pathContext:{path:"stoyan_stefanov"}}}});
 //# sourceMappingURL=path---invitation-stoyan-stefanov-124989815b1f7a3a61f6.js.map

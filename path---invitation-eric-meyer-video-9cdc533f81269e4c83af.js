@@ -1,2 +1,2 @@
-webpackJsonp([0xd718823a13f1],{422:function(e,t){e.exports={data:{invitation:{id:"eric_meyer",path:"eric_meyer",video:"https://www.youtube.com/embed/vj0UQlKhKV0",name:"Eric"}},pathContext:{path:"eric_meyer",track:!0}}}});
+webpackJsonp([0xd718823a13f1],{"./node_modules/json-loader/index.js!./.cache/json/invitation-eric-meyer-video.json":function(e,i){e.exports={data:{invitation:{id:"eric_meyer",path:"eric_meyer",video:"https://www.youtube.com/embed/vj0UQlKhKV0",name:"Eric"}},pathContext:{path:"eric_meyer",track:!0}}}});
 //# sourceMappingURL=path---invitation-eric-meyer-video-9cdc533f81269e4c83af.js.map

@@ -45,12 +45,16 @@
       "path---invitation-david-storey-video-423642303406bb44eda0.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-dde4643acc44fc5ffa30.js",
-      "component---src-pages-index-js-dde4643acc44fc5ffa30.js.map"
+      "component---src-pages-index-js-962f1b931f003da4a4f0.js",
+      "component---src-pages-index-js-962f1b931f003da4a4f0.js.map"
     ],
     "path---invitation-tom-dale-video": [
       "path---invitation-tom-dale-video-f126cedb73af3d100a3a.js",
       "path---invitation-tom-dale-video-f126cedb73af3d100a3a.js.map"
+    ],
+    "component---src-pages-code-of-conduct-js": [
+      "component---src-pages-code-of-conduct-js-d7c29ff99c557a0805db.js",
+      "component---src-pages-code-of-conduct-js-d7c29ff99c557a0805db.js.map"
     ],
     "path---invitation-oleg-slobodskoi-video": [
       "path---invitation-oleg-slobodskoi-video-74d1c78eae21c390e24f.js",
@@ -105,8 +109,8 @@
       "path---invitation-addy-osmani-video-3a13b8bc134826466cf3.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-1226559834c0fe1602e5.js",
-      "component---src-layouts-index-js-1226559834c0fe1602e5.js.map"
+      "component---src-layouts-index-js-04d6693001a57137e1e1.js",
+      "component---src-layouts-index-js-04d6693001a57137e1e1.js.map"
     ],
     "path---invitation-kelsey-frijol": [
       "path---invitation-kelsey-frijol-47e92e07e1abe449935f.js",
@@ -189,8 +193,8 @@
       "path---invitation-mark-dalgleish-3be8d80cb1362994cbd9.js.map"
     ],
     "commons": [
-      "commons-0195cce529a2afc0f87e.js",
-      "commons-0195cce529a2afc0f87e.js.map"
+      "commons-fb6f4269d996c628373a.js",
+      "commons-fb6f4269d996c628373a.js.map"
     ],
     "path---invitation-sean-larkin": [
       "path---invitation-sean-larkin-fe9b42e4dc396091fc01.js",
@@ -265,8 +269,8 @@
       "path---invitation-vyacheslav-egorov-video-9d70271e36c09b973a1c.js.map"
     ],
     "component---src-pages-successful-purchase-js": [
-      "component---src-pages-successful-purchase-js-2364b6c6785ea914e6a6.js",
-      "component---src-pages-successful-purchase-js-2364b6c6785ea914e6a6.js.map"
+      "component---src-pages-successful-purchase-js-d9cdf2e15cfbe18526f3.js",
+      "component---src-pages-successful-purchase-js-d9cdf2e15cfbe18526f3.js.map"
     ],
     "path---invitation-nicolas-zakas": [
       "path---invitation-nicolas-zakas-46d22abe8b8ecc407a44.js",
@@ -275,6 +279,10 @@
     "path---invitation-hui-jing": [
       "path---invitation-hui-jing-3ae44bc269c464ba53a7.js",
       "path---invitation-hui-jing-3ae44bc269c464ba53a7.js.map"
+    ],
+    "path---code-of-conduct": [
+      "path---code-of-conduct-a0e39f21c11f6a62c5ab.js",
+      "path---code-of-conduct-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---invitation-david-storey": [
       "path---invitation-david-storey-7523fcbb0a95bfe88ff6.js",
@@ -285,9 +293,9 @@
       "path---invitation-max-stoiber-d8f65806a2d474dc4d3f.js.map"
     ],
     "app": [
-      "app-8702a8e1b2d5196646b9.js",
+      "app-91170d6f1996bc53e16f.js",
       "build-js-styles.css",
-      "app-8702a8e1b2d5196646b9.js.map",
+      "app-91170d6f1996bc53e16f.js.map",
       "build-js-styles.css.map"
     ],
     "path---invitation-vyacheslav-egorov": [
@@ -295,8 +303,8 @@
       "path---invitation-vyacheslav-egorov-21decc52ee9f7fad15c2.js.map"
     ],
     "component---src-templates-invitation-js": [
-      "component---src-templates-invitation-js-aae970aa7388e0b17953.js",
-      "component---src-templates-invitation-js-aae970aa7388e0b17953.js.map"
+      "component---src-templates-invitation-js-759421eb2875b45476a4.js",
+      "component---src-templates-invitation-js-759421eb2875b45476a4.js.map"
     ],
     "path---invitation-eric-meyer-video": [
       "path---invitation-eric-meyer-video-9cdc533f81269e4c83af.js",
@@ -347,8 +355,8 @@
       "path---invitation-hui-jing-video-37a2898b3e3b0ca961e5.js.map"
     ],
     "component---src-layouts-simple-js": [
-      "component---src-layouts-simple-js-ccf8a967305da45c64fd.js",
-      "component---src-layouts-simple-js-ccf8a967305da45c64fd.js.map"
+      "component---src-layouts-simple-js-23fd86931a9f299112fa.js",
+      "component---src-layouts-simple-js-23fd86931a9f299112fa.js.map"
     ],
     "path---invitation-addy-osmani": [
       "path---invitation-addy-osmani-f48c83c5c441cd733b4a.js",

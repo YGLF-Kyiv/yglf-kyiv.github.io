@@ -1,2 +1,2 @@
-webpackJsonp([0xc1df737a5f01],{495:function(t,n){t.exports={pathContext:{}}}});
+webpackJsonp([0xc1df737a5f01],{"./node_modules/json-loader/index.js!./.cache/json/sponsorship.json":function(o,n){o.exports={pathContext:{}}}});
 //# sourceMappingURL=path---sponsorship-a0e39f21c11f6a62c5ab.js.map

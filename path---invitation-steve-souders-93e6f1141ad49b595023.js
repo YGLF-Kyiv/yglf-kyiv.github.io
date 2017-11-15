@@ -1,2 +1,2 @@
-webpackJsonp([96514930093285],{"./node_modules/json-loader/index.js!./.cache/json/invitation-steve-souders.json":function(e,t){e.exports={data:{invitation:{id:"steve_souders",path:"steve_souders",video:"https://www.youtube.com/embed/vF1oMENAtXc",name:"Steve"}},pathContext:{path:"steve_souders"}}}});
+webpackJsonp([96514930093285],{484:function(e,t){e.exports={data:{invitation:{id:"steve_souders",path:"steve_souders",video:"https://www.youtube.com/embed/vF1oMENAtXc",name:"Steve"}},pathContext:{path:"steve_souders"}}}});
 //# sourceMappingURL=path---invitation-steve-souders-93e6f1141ad49b595023.js.map

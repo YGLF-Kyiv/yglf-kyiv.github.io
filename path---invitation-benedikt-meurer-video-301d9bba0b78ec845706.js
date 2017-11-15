@@ -1,2 +1,2 @@
-webpackJsonp([0x77153b82d58c],{"./node_modules/json-loader/index.js!./.cache/json/invitation-benedikt-meurer-video.json":function(e,t){e.exports={data:{invitation:{id:"benedikt_meurer",path:"benedikt_meurer",video:"https://www.youtube.com/embed/lAstSdHkS0Q",name:"Benedikt"}},pathContext:{path:"benedikt_meurer",track:!0}}}});
+webpackJsonp([0x77153b82d58c],{425:function(e,t){e.exports={data:{invitation:{id:"benedikt_meurer",path:"benedikt_meurer",video:"https://www.youtube.com/embed/lAstSdHkS0Q",name:"Benedikt"}},pathContext:{path:"benedikt_meurer",track:!0}}}});
 //# sourceMappingURL=path---invitation-benedikt-meurer-video-301d9bba0b78ec845706.js.map

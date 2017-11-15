@@ -1,2 +1,2 @@
-webpackJsonp([0x6db7cf809f50],{"./node_modules/json-loader/index.js!./.cache/json/invitation-oleg-slobodskoi.json":function(o,e){o.exports={data:{invitation:{id:"oleg_slobodskoi",path:"oleg_slobodskoi",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Oleg"}},pathContext:{path:"oleg_slobodskoi"}}}});
+webpackJsonp([0x6db7cf809f50],{470:function(o,t){o.exports={data:{invitation:{id:"oleg_slobodskoi",path:"oleg_slobodskoi",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Oleg"}},pathContext:{path:"oleg_slobodskoi"}}}});
 //# sourceMappingURL=path---invitation-oleg-slobodskoi-bd32a5fd9fe834005cc4.js.map

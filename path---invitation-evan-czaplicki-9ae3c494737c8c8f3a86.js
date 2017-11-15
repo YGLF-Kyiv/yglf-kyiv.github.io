@@ -1,2 +1,2 @@
-webpackJsonp([0xad6a95033c82],{"./node_modules/json-loader/index.js!./.cache/json/invitation-evan-czaplicki.json":function(a,n){a.exports={data:{invitation:{id:"evan_czaplicki",path:"evan_czaplicki",video:"https://www.youtube.com/embed/UbCZAkHuPa4",name:"Evan"}},pathContext:{path:"evan_czaplicki"}}}});
+webpackJsonp([0xad6a95033c82],{442:function(a,t){a.exports={data:{invitation:{id:"evan_czaplicki",path:"evan_czaplicki",video:"https://www.youtube.com/embed/UbCZAkHuPa4",name:"Evan"}},pathContext:{path:"evan_czaplicki"}}}});
 //# sourceMappingURL=path---invitation-evan-czaplicki-9ae3c494737c8c8f3a86.js.map

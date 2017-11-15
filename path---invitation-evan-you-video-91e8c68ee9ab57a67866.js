@@ -1,2 +1,2 @@
-webpackJsonp([22978512832171],{"./node_modules/json-loader/index.js!./.cache/json/invitation-evan-you-video.json":function(o,n){o.exports={data:{invitation:{id:"evan_you",path:"evan_you",video:"https://www.youtube.com/embed/Wg-Da6MTJDQ",name:"Evan"}},pathContext:{path:"evan_you",track:!0}}}});
+webpackJsonp([22978512832171],{443:function(a,t){a.exports={data:{invitation:{id:"evan_you",path:"evan_you",video:"https://www.youtube.com/embed/Wg-Da6MTJDQ",name:"Evan"}},pathContext:{path:"evan_you",track:!0}}}});
 //# sourceMappingURL=path---invitation-evan-you-video-91e8c68ee9ab57a67866.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([50942464832650],{480:function(a,t){a.exports={data:{invitation:{id:"sarah_drasner",path:"sarah_drasner",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Sarah"}},pathContext:{path:"sarah_drasner",ignoreInSitemap:!0}}}});
+//# sourceMappingURL=path---invitation-sarah-drasner-6dbab58e00328748de50.js.map

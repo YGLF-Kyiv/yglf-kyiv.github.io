@@ -1,2 +1,0 @@
-webpackJsonp([0x9f7877d31e57],{"./node_modules/json-loader/index.js!./.cache/json/invitation-michel-weststrate.json":function(e,t){e.exports={data:{invitation:{id:"michel_weststrate",path:"michel_weststrate",video:"https://www.youtube.com/embed/bp1kNlfvQOY",name:"Michel"}},pathContext:{path:"michel_weststrate"}}}});
-//# sourceMappingURL=path---invitation-michel-weststrate-6ab970732ed318f5946f.js.map

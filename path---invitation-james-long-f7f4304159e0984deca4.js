@@ -1,2 +1,0 @@
-webpackJsonp([0x8e161a30a9c9],{"./node_modules/json-loader/index.js!./.cache/json/invitation-james-long.json":function(e,o){e.exports={data:{invitation:{id:"james_long",path:"james_long",video:"https://www.youtube.com/embed/LV83ipO0iFM",name:"James"}},pathContext:{path:"james_long"}}}});
-//# sourceMappingURL=path---invitation-james-long-f7f4304159e0984deca4.js.map

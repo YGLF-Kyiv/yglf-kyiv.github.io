@@ -1,0 +1,2 @@
+webpackJsonp([0xf72f8832caff],{422:function(a,t){a.exports={data:{invitation:{id:"addy_osmani",path:"addy_osmani",video:"https://www.youtube.com/embed/xvn_y0su-X0",name:"Addy"}},pathContext:{path:"addy_osmani",ignoreInSitemap:!0}}}});
+//# sourceMappingURL=path---invitation-addy-osmani-6b54a0c4aa0279acd489.js.map

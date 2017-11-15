@@ -1,2 +1,0 @@
-webpackJsonp([0xb26afc654d4],{"./node_modules/json-loader/index.js!./.cache/json/invitation-franziska-hinkelmann.json":function(n,a){n.exports={data:{invitation:{id:"franziska_hinkelmann",path:"franziska_hinkelmann",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Franziska"}},pathContext:{path:"franziska_hinkelmann"}}}});
-//# sourceMappingURL=path---invitation-franziska-hinkelmann-612bd1e386978c0d7cbb.js.map

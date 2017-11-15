@@ -1,0 +1,2 @@
+webpackJsonp([0xf8e458d5ed80],{425:function(e,n){e.exports={data:{invitation:{id:"andrey_okonetchnikov",path:"andrey_okonetchnikov",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Andrey"}},pathContext:{path:"andrey_okonetchnikov",track:!0,ignoreInSitemap:!0}}}});
+//# sourceMappingURL=path---invitation-andrey-okonetchnikov-video-35914a12d478ca5f18b7.js.map

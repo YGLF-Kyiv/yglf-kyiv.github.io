@@ -1,0 +1,2 @@
+webpackJsonp([0xb4e4ee040229],{496:function(t,a){t.exports={data:{invitation:{id:"vitaly_friedman",path:"vitaly_friedman",video:"https://www.youtube.com/embed/Wn437FOix10",name:"Vitaly"}},pathContext:{path:"vitaly_friedman",ignoreInSitemap:!0}}}});
+//# sourceMappingURL=path---invitation-vitaly-friedman-0e0baef3a176697aa5cd.js.map

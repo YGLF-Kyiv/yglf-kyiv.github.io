@@ -1,0 +1,2 @@
+webpackJsonp([0x91a8b5c48d2d],{481:function(a,n){a.exports={data:{invitation:{id:"sean_larkin",path:"sean_larkin",video:"https://www.youtube.com/embed/UBqScHbk3Gc",name:"Sean"}},pathContext:{path:"sean_larkin",track:!0,ignoreInSitemap:!0}}}});
+//# sourceMappingURL=path---invitation-sean-larkin-video-be26fb8d3c7cec7f8f3f.js.map

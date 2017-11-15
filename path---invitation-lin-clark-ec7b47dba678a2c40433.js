@@ -1,0 +1,2 @@
+webpackJsonp([44988199827214],{458:function(n,t){n.exports={data:{invitation:{id:"lin_clark",path:"lin_clark",video:"https://www.youtube.com/embed/nf4Vgg95rmw",name:"Lin"}},pathContext:{path:"lin_clark",ignoreInSitemap:!0}}}});
+//# sourceMappingURL=path---invitation-lin-clark-ec7b47dba678a2c40433.js.map

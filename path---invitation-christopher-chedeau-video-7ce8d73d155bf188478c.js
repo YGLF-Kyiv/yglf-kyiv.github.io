@@ -1,0 +1,2 @@
+webpackJsonp([29680333940411],{433:function(e,t){e.exports={data:{invitation:{id:"christopher_chedeau",path:"christopher_chedeau",video:"https://www.youtube.com/embed/ICW0mEMZKJA",name:"Christopher"}},pathContext:{path:"christopher_chedeau",track:!0,ignoreInSitemap:!0}}}});
+//# sourceMappingURL=path---invitation-christopher-chedeau-video-7ce8d73d155bf188478c.js.map

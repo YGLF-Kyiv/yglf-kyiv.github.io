@@ -1,0 +1,2 @@
+webpackJsonp([32989930855125],{435:function(t,a){t.exports={data:{invitation:{id:"david_storey",path:"david_storey",video:"https://www.youtube.com/embed/WBOrlofY4ws",name:"David"}},pathContext:{path:"david_storey",track:!0,ignoreInSitemap:!0}}}});
+//# sourceMappingURL=path---invitation-david-storey-video-859f96a4e76cf60e1119.js.map

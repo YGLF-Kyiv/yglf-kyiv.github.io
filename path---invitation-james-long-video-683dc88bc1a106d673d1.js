@@ -1,0 +1,2 @@
+webpackJsonp([90671019276419],{451:function(t,a){t.exports={data:{invitation:{id:"james_long",path:"james_long",video:"https://www.youtube.com/embed/LV83ipO0iFM",name:"James"}},pathContext:{path:"james_long",track:!0,ignoreInSitemap:!0}}}});
+//# sourceMappingURL=path---invitation-james-long-video-683dc88bc1a106d673d1.js.map

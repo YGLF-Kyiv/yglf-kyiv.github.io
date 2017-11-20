@@ -1,2 +1,2 @@
-webpackJsonp([0xca96fbc30e35],{505:function(a,t){a.exports={data:{invitation:{id:"una_kravets",path:"una_kravets",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Una"}},pathContext:{path:"una_kravets",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([0xca96fbc30e35],{504:function(a,t){a.exports={data:{invitation:{id:"una_kravets",path:"una_kravets",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Una"}},pathContext:{path:"una_kravets",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-una-kravets-video-bde1587684972bb48752.js.map

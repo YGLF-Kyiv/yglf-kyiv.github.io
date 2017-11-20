@@ -1,2 +1,2 @@
-webpackJsonp([0xf1f657ff7349],{465:function(e,t){e.exports={data:{invitation:{id:"kelsey_frijol",path:"kelsey_frijol",video:"https://www.youtube.com/embed/h1oKsFKeLrE",name:"Kelsey"}},pathContext:{path:"kelsey_frijol",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([0xf1f657ff7349],{464:function(e,t){e.exports={data:{invitation:{id:"kelsey_frijol",path:"kelsey_frijol",video:"https://www.youtube.com/embed/h1oKsFKeLrE",name:"Kelsey"}},pathContext:{path:"kelsey_frijol",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-kelsey-frijol-video-81cb3dc2f263c9b9129c.js.map

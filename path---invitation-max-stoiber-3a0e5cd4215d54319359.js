@@ -1,2 +1,2 @@
-webpackJsonp([0xd16a98d17f96],{"./node_modules/json-loader/index.js!./.cache/json/invitation-max-stoiber.json":function(o,t){o.exports={data:{invitation:{id:"max_stoiber",path:"max_stoiber",video:"https://www.youtube.com/embed/BJEbYwuA7jY",name:"Max"}},pathContext:{path:"max_stoiber",ignoreInSitemap:!0}}}});
+webpackJsonp([0xd16a98d17f96],{476:function(t,a){t.exports={data:{invitation:{id:"max_stoiber",path:"max_stoiber",video:"https://www.youtube.com/embed/BJEbYwuA7jY",name:"Max"}},pathContext:{path:"max_stoiber",ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-max-stoiber-3a0e5cd4215d54319359.js.map

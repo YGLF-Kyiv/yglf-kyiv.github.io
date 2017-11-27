@@ -1,2 +1,2 @@
-webpackJsonp([0xca96fbc30e35],{520:function(a,t){a.exports={data:{invitation:{id:"una_kravets",path:"una_kravets",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Una"}},pathContext:{path:"una_kravets",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([0xca96fbc30e35],{"./node_modules/json-loader/index.js!./.cache/json/invitation-una-kravets-video.json":function(a,e){a.exports={data:{invitation:{id:"una_kravets",path:"una_kravets",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Una"}},pathContext:{path:"una_kravets",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-una-kravets-video-bde1587684972bb48752.js.map

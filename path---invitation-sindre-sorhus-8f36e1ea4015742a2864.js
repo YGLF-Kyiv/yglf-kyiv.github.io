@@ -1,2 +1,2 @@
-webpackJsonp([99186232243575],{501:function(e,t){e.exports={data:{invitation:{id:"sindre_sorhus",path:"sindre_sorhus",video:"https://www.youtube.com/embed/NjoCll8lB7k",name:"Sindre"}},pathContext:{path:"sindre_sorhus",ignoreInSitemap:!0}}}});
+webpackJsonp([99186232243575],{"./node_modules/json-loader/index.js!./.cache/json/invitation-sindre-sorhus.json":function(n,o){n.exports={data:{invitation:{id:"sindre_sorhus",path:"sindre_sorhus",video:"https://www.youtube.com/embed/NjoCll8lB7k",name:"Sindre"}},pathContext:{path:"sindre_sorhus",ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-sindre-sorhus-8f36e1ea4015742a2864.js.map

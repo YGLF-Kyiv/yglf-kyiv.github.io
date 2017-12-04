@@ -1,0 +1,2 @@
+webpackJsonp([34644488761464],{485:function(a,t){a.exports={data:{invitation:{id:"nicholas_zakas",path:"nicholas_zakas",video:"https://www.youtube.com/embed/NQsL4jd9N9M",name:"Nicholas"}},pathContext:{path:"nicholas_zakas",ignoreInSitemap:!0}}}});
+//# sourceMappingURL=path---invitation-nicholas-zakas-121ab4c4cc5987498afc.js.map

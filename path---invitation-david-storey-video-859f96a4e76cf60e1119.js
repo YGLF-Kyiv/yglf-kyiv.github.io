@@ -1,2 +1,2 @@
-webpackJsonp([32989930855125],{"./node_modules/json-loader/index.js!./.cache/json/invitation-david-storey-video.json":function(o,t){o.exports={data:{invitation:{id:"david_storey",path:"david_storey",video:"https://www.youtube.com/embed/WBOrlofY4ws",name:"David"}},pathContext:{path:"david_storey",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([32989930855125],{458:function(t,a){t.exports={data:{invitation:{id:"david_storey",path:"david_storey",video:"https://www.youtube.com/embed/WBOrlofY4ws",name:"David"}},pathContext:{path:"david_storey",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-david-storey-video-859f96a4e76cf60e1119.js.map

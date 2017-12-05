@@ -1,2 +1,2 @@
-webpackJsonp([0xccc82e3c2ae9],{"./node_modules/json-loader/index.js!./.cache/json/invitation-vyacheslav-egorov-video.json":function(e,o){e.exports={data:{invitation:{id:"vyacheslav_egorov",path:"vyacheslav_egorov",video:"https://www.youtube.com/embed/ypLI1n0qe_E",name:"Vyacheslav"}},pathContext:{path:"vyacheslav_egorov",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([0xccc82e3c2ae9],{520:function(e,a){e.exports={data:{invitation:{id:"vyacheslav_egorov",path:"vyacheslav_egorov",video:"https://www.youtube.com/embed/ypLI1n0qe_E",name:"Vyacheslav"}},pathContext:{path:"vyacheslav_egorov",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-vyacheslav-egorov-video-50b16841b31d9b50eaec.js.map

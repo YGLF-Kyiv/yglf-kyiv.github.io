@@ -1,2 +1,2 @@
-webpackJsonp([0x9b16a506c01f],{"./node_modules/json-loader/index.js!./.cache/json/invitation-marja-holtta-video.json":function(a,t){a.exports={data:{invitation:{id:"marja_holtta",path:"marja_holtta",video:"https://www.youtube.com/embed/uBjEWQbmqO4",name:"Marja"}},pathContext:{path:"marja_holtta",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([0x9b16a506c01f],{482:function(a,t){a.exports={data:{invitation:{id:"marja_holtta",path:"marja_holtta",video:"https://www.youtube.com/embed/uBjEWQbmqO4",name:"Marja"}},pathContext:{path:"marja_holtta",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-marja-holtta-video-1696cb5fc8ef19239a1c.js.map

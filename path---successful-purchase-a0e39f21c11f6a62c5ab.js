@@ -1,2 +1,2 @@
-webpackJsonp([0xe4b45d30e48d],{"./node_modules/json-loader/index.js!./.cache/json/successful-purchase.json":function(e,s){e.exports={pathContext:{}}}});
+webpackJsonp([0xe4b45d30e48d],{524:function(e,t){e.exports={pathContext:{}}}});
 //# sourceMappingURL=path---successful-purchase-a0e39f21c11f6a62c5ab.js.map

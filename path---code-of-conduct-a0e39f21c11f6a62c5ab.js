@@ -1,2 +1,2 @@
-webpackJsonp([0xcfa45ed0c2d4],{441:function(t,c){t.exports={pathContext:{}}}});
+webpackJsonp([0xcfa45ed0c2d4],{"./node_modules/json-loader/index.js!./.cache/json/code-of-conduct.json":function(o,e){o.exports={pathContext:{}}}});
 //# sourceMappingURL=path---code-of-conduct-a0e39f21c11f6a62c5ab.js.map

@@ -104,6 +104,10 @@
       "path---invitation-stoyan-stefanov-video-8a61c6bafc3bac74a28f.js",
       "path---invitation-stoyan-stefanov-video-8a61c6bafc3bac74a28f.js.map"
     ],
+    "path---invitation-mikhail-novikov-video": [
+      "path---invitation-mikhail-novikov-video-d179276385e98560a145.js",
+      "path---invitation-mikhail-novikov-video-d179276385e98560a145.js.map"
+    ],
     "path---invitation-andrey-okonetchnikov": [
       "path---invitation-andrey-okonetchnikov-aa738cfe901e7ce074c7.js",
       "path---invitation-andrey-okonetchnikov-aa738cfe901e7ce074c7.js.map"
@@ -333,9 +337,9 @@
       "path---speakers-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-4f6bbbaa1d84319e57c0.js",
+      "app-36dad0dd5ed84b0ee2f7.js",
       "build-js-styles.css",
-      "app-4f6bbbaa1d84319e57c0.js.map",
+      "app-36dad0dd5ed84b0ee2f7.js.map",
       "build-js-styles.css.map"
     ],
     "path---invitation-vyacheslav-egorov": [
@@ -345,6 +349,10 @@
     "component---src-templates-invitation-js": [
       "component---src-templates-invitation-js-57d53ad9de00b13efd66.js",
       "component---src-templates-invitation-js-57d53ad9de00b13efd66.js.map"
+    ],
+    "path---invitation-mikhail-novikov": [
+      "path---invitation-mikhail-novikov-a0f1cea44595048dee7c.js",
+      "path---invitation-mikhail-novikov-a0f1cea44595048dee7c.js.map"
     ],
     "path---invitation-eric-meyer-video": [
       "path---invitation-eric-meyer-video-9bce4d57108ad9e7968f.js",

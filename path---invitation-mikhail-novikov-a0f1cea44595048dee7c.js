@@ -1,0 +1,2 @@
+webpackJsonp([0xd631d626221d],{"./node_modules/json-loader/index.js!./.cache/json/invitation-mikhail-novikov.json":function(i,o){i.exports={data:{invitation:{id:"mikhail_novikov",path:"mikhail_novikov",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Mikhail"}},pathContext:{path:"mikhail_novikov",ignoreInSitemap:!0}}}});
+//# sourceMappingURL=path---invitation-mikhail-novikov-a0f1cea44595048dee7c.js.map

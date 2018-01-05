@@ -1,0 +1,2 @@
+webpackJsonp([0x64dae3189499],{513:function(e,t){e.exports={data:{invitation:{id:"henry_zhu",path:"henry_zhu",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Henry"}},pathContext:{path:"henry_zhu",ignoreInSitemap:!0}}}});
+//# sourceMappingURL=path---invitation-henry-zhu-f5498377c40e696973ab.js.map

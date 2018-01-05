@@ -1,0 +1,2 @@
+webpackJsonp([99598514778049],{489:function(i,t){i.exports={data:{invitation:{id:"chris_coyier",path:"chris_coyier",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Chris"}},pathContext:{path:"chris_coyier",ignoreInSitemap:!0}}}});
+//# sourceMappingURL=path---invitation-chris-coyier-e3295ee586f743b35bba.js.map

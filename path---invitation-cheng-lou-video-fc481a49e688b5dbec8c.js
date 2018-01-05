@@ -1,0 +1,2 @@
+webpackJsonp([0x8f5f235f5078],{486:function(t,e){t.exports={data:{invitation:{id:"cheng_lou",path:"cheng_lou",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Cheng Lou"}},pathContext:{path:"cheng_lou",track:!0,ignoreInSitemap:!0}}}});
+//# sourceMappingURL=path---invitation-cheng-lou-video-fc481a49e688b5dbec8c.js.map

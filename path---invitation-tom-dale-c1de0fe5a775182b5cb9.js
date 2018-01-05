@@ -1,2 +1,2 @@
-webpackJsonp([0x8da3d52bbb79],{"./node_modules/json-loader/index.js!./.cache/json/invitation-tom-dale.json":function(o,t){o.exports={data:{invitation:{id:"tom_dale",path:"tom_dale",video:"https://www.youtube.com/embed/lZcK17EtSLQ",name:"Tom"}},pathContext:{path:"tom_dale",ignoreInSitemap:!0}}}});
+webpackJsonp([0x8da3d52bbb79],{567:function(t,a){t.exports={data:{invitation:{id:"tom_dale",path:"tom_dale",video:"https://www.youtube.com/embed/lZcK17EtSLQ",name:"Tom"}},pathContext:{path:"tom_dale",ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-tom-dale-c1de0fe5a775182b5cb9.js.map

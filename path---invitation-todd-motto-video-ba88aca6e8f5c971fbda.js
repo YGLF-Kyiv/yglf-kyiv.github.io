@@ -1,0 +1,2 @@
+webpackJsonp([0xef496540e602],{564:function(t,o){t.exports={data:{invitation:{id:"todd_motto",path:"todd_motto",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Todd"}},pathContext:{path:"todd_motto",track:!0,ignoreInSitemap:!0}}}});
+//# sourceMappingURL=path---invitation-todd-motto-video-ba88aca6e8f5c971fbda.js.map

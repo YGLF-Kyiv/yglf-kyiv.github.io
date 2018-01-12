@@ -1,2 +1,2 @@
-webpackJsonp([0x7b32afcad1f1],{"./node_modules/json-loader/index.js!./.cache/json/invitation-nicholas-zakas-video.json":function(a,o){a.exports={data:{invitation:{id:"nicholas_zakas",path:"nicholas_zakas",video:"https://www.youtube.com/embed/NQsL4jd9N9M",name:"Nicholas"}},pathContext:{path:"nicholas_zakas",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([0x7b32afcad1f1],{542:function(a,t){a.exports={data:{invitation:{id:"nicholas_zakas",path:"nicholas_zakas",video:"https://www.youtube.com/embed/NQsL4jd9N9M",name:"Nicholas"}},pathContext:{path:"nicholas_zakas",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-nicholas-zakas-video-93f54d5eea5dc7ffada5.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0xb589c1c5e6ec],{"./node_modules/json-loader/index.js!./.cache/json/invitation-dominic-gannaway-video.json":function(n,a){n.exports={data:{invitation:{id:"dominic_gannaway",path:"dominic_gannaway",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Dominic"}},pathContext:{path:"dominic_gannaway",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([0xb589c1c5e6ec],{500:function(a,n){a.exports={data:{invitation:{id:"dominic_gannaway",path:"dominic_gannaway",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Dominic"}},pathContext:{path:"dominic_gannaway",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-dominic-gannaway-video-47147e527b5560db76d8.js.map

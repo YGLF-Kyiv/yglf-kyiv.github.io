@@ -1,2 +1,2 @@
-webpackJsonp([0xf72f8832caff],{"./node_modules/json-loader/index.js!./.cache/json/invitation-addy-osmani.json":function(a,n){a.exports={data:{invitation:{id:"addy_osmani",path:"addy_osmani",video:"https://www.youtube.com/embed/xvn_y0su-X0",name:"Addy"}},pathContext:{path:"addy_osmani",ignoreInSitemap:!0}}}});
+webpackJsonp([0xf72f8832caff],{477:function(a,t){a.exports={data:{invitation:{id:"addy_osmani",path:"addy_osmani",video:"https://www.youtube.com/embed/xvn_y0su-X0",name:"Addy"}},pathContext:{path:"addy_osmani",ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-addy-osmani-6b54a0c4aa0279acd489.js.map

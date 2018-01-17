@@ -1,2 +1,2 @@
-webpackJsonp([0xf4df1355366b],{558:function(e,t){e.exports={data:{invitation:{id:"sebastian_mckenzie",path:"sebastian_mckenzie",video:"https://www.youtube.com/embed/hkbQkE3pMow",name:"Sebastian"}},pathContext:{path:"sebastian_mckenzie",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([0xf4df1355366b],{"./node_modules/json-loader/index.js!./.cache/json/invitation-sebastian-mckenzie-video.json":function(e,n){e.exports={data:{invitation:{id:"sebastian_mckenzie",path:"sebastian_mckenzie",video:"https://www.youtube.com/embed/hkbQkE3pMow",name:"Sebastian"}},pathContext:{path:"sebastian_mckenzie",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-sebastian-mckenzie-video-7417bd449a5a7fb2d079.js.map

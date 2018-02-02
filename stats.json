@@ -52,6 +52,10 @@
       "path---invitation-christopher-chedeau-video-7ce8d73d155bf188478c.js",
       "path---invitation-christopher-chedeau-video-7ce8d73d155bf188478c.js.map"
     ],
+    "path---invitation-sunil-pai": [
+      "path---invitation-sunil-pai-591289376237237c0289.js",
+      "path---invitation-sunil-pai-591289376237237c0289.js.map"
+    ],
     "path---invitation-david-storey-video": [
       "path---invitation-david-storey-video-859f96a4e76cf60e1119.js",
       "path---invitation-david-storey-video-859f96a4e76cf60e1119.js.map"
@@ -69,8 +73,8 @@
       "path---invitation-tom-dale-video-cf73bf87e4d943ba6134.js.map"
     ],
     "component---src-layouts-invitation-js": [
-      "component---src-layouts-invitation-js-5bb7fae92be47a8b5631.js",
-      "component---src-layouts-invitation-js-5bb7fae92be47a8b5631.js.map"
+      "component---src-layouts-invitation-js-939cdc3f257013fa1c7c.js",
+      "component---src-layouts-invitation-js-939cdc3f257013fa1c7c.js.map"
     ],
     "component---src-pages-diversity-js": [
       "component---src-pages-diversity-js-7547835215b0c13f4f55.js",
@@ -175,6 +179,10 @@
     "path---invitation-kelsey-frijol": [
       "path---invitation-kelsey-frijol-6dac63351516cadda131.js",
       "path---invitation-kelsey-frijol-6dac63351516cadda131.js.map"
+    ],
+    "path---invitation-sunil-pai-video": [
+      "path---invitation-sunil-pai-video-b8f141bf2c1429a688cf.js",
+      "path---invitation-sunil-pai-video-b8f141bf2c1429a688cf.js.map"
     ],
     "path---diversity": [
       "path---diversity-a0e39f21c11f6a62c5ab.js",
@@ -329,8 +337,8 @@
       "path---invitation-sebastian-mckenzie-1f9287bc64b14ff708d9.js.map"
     ],
     "component---src-layouts-tickets-redirect-js": [
-      "component---src-layouts-tickets-redirect-js-88c8f4946897699c1da1.js",
-      "component---src-layouts-tickets-redirect-js-88c8f4946897699c1da1.js.map"
+      "component---src-layouts-tickets-redirect-js-8276b24ce2e659aedf5c.js",
+      "component---src-layouts-tickets-redirect-js-8276b24ce2e659aedf5c.js.map"
     ],
     "path---invitation-chris-coyier-video": [
       "path---invitation-chris-coyier-video-c602e0ea9f1dc35f87ad.js",
@@ -405,9 +413,9 @@
       "path---speakers-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-e2c2908cdd683cc82c87.js",
+      "app-5d52e7a4bec17c5e5ad2.js",
       "build-js-styles.css",
-      "app-e2c2908cdd683cc82c87.js.map",
+      "app-5d52e7a4bec17c5e5ad2.js.map",
       "build-js-styles.css.map"
     ],
     "path---invitation-vyacheslav-egorov": [
@@ -487,8 +495,8 @@
       "path---invitation-hui-jing-video-84ff9a32d64494d7ded3.js.map"
     ],
     "component---src-layouts-simple-js": [
-      "component---src-layouts-simple-js-fcfa106ef2fd8c3d4446.js",
-      "component---src-layouts-simple-js-fcfa106ef2fd8c3d4446.js.map"
+      "component---src-layouts-simple-js-11b26271c89f0d38eb69.js",
+      "component---src-layouts-simple-js-11b26271c89f0d38eb69.js.map"
     ],
     "path---invitation-addy-osmani": [
       "path---invitation-addy-osmani-6b54a0c4aa0279acd489.js",

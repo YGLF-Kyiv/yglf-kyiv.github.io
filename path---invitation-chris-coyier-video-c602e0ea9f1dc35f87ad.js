@@ -1,2 +1,0 @@
-webpackJsonp([0xba6bb88fd5d0],{"./node_modules/json-loader/index.js!./.cache/json/invitation-chris-coyier-video.json":function(i,o){i.exports={data:{invitation:{id:"chris_coyier",path:"chris_coyier",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Chris"}},pathContext:{path:"chris_coyier",track:!0,ignoreInSitemap:!0}}}});
-//# sourceMappingURL=path---invitation-chris-coyier-video-c602e0ea9f1dc35f87ad.js.map

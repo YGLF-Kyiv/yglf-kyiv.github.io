@@ -1,0 +1,2 @@
+webpackJsonp([99376801752984],{"./node_modules/json-loader/index.js!./.cache/json/invitation-lin-clark-video.json":function(n,i){n.exports={data:{invitation:{id:"lin_clark",path:"lin_clark",video:"https://www.youtube.com/embed/nf4Vgg95rmw",name:"Lin"}},pathContext:{qpath:"lin_clark",track:!0,ignoreInSitemap:!0}}}});
+//# sourceMappingURL=path---invitation-lin-clark-video-0d78410e8004f50afbb5.js.map

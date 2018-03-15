@@ -1,2 +1,0 @@
-webpackJsonp([0xe336c4b563ff],{"./node_modules/json-loader/index.js!./.cache/json/invitation-facebook-video.json":function(o,e){o.exports={data:{invitation:{id:"facebook",path:"facebook",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Facebook People"}},pathContext:{path:"facebook",track:!0,ignoreInSitemap:!0}}}});
-//# sourceMappingURL=path---invitation-facebook-video-5fab71b1847dde0eb48b.js.map

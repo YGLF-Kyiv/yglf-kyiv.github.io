@@ -1,2 +1,0 @@
-webpackJsonp([27621153265876],{"./node_modules/json-loader/index.js!./.cache/json/invitation-dr-axel-rauschmayer.json":function(a,e){a.exports={data:{invitation:{id:"dr_axel_rauschmayer",path:"dr_axel_rauschmayer",video:"https://www.youtube.com/embed/x9wyL5p0Zc0",name:"Dr. Axel Rauschmayer"}},pathContext:{path:"dr_axel_rauschmayer",ignoreInSitemap:!0}}}});
-//# sourceMappingURL=path---invitation-dr-axel-rauschmayer-3b02045b7b4f1d4b4dec.js.map

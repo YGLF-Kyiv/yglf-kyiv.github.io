@@ -1,2 +1,0 @@
-webpackJsonp([0xdad8b55d606],{"./node_modules/json-loader/index.js!./.cache/json/invitation-jason-miller.json":function(n,o){n.exports={data:{invitation:{id:"jason_miller",path:"jason_miller",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Jason"}},pathContext:{path:"jason_miller",ignoreInSitemap:!0}}}});
-//# sourceMappingURL=path---invitation-jason-miller-a424735917db15e4fe10.js.map

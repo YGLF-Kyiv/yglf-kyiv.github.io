@@ -1,2 +1,0 @@
-webpackJsonp([0xcd82843cde7b],{"./node_modules/json-loader/index.js!./.cache/json/invitation-sara-soueidan.json":function(a,e){a.exports={data:{invitation:{id:"sara_soueidan",path:"sara_soueidan",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Sara"}},pathContext:{path:"sara_soueidan",ignoreInSitemap:!0}}}});
-//# sourceMappingURL=path---invitation-sara-soueidan-d5e14c5ee8586a4aab45.js.map

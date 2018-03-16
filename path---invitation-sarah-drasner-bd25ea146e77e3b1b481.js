@@ -1,2 +1,2 @@
-webpackJsonp([50942464832650],{"./node_modules/json-loader/index.js!./.cache/json/invitation-sarah-drasner.json":function(a,n){a.exports={data:{invitation:{id:"sarah_drasner",path:"sarah_drasner",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Sarah"}},pathContext:{qpath:"sarah_drasner",ignoreInSitemap:!0}}}});
+webpackJsonp([50942464832650],{552:function(a,t){a.exports={data:{invitation:{id:"sarah_drasner",path:"sarah_drasner",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Sarah"}},pathContext:{qpath:"sarah_drasner",ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-sarah-drasner-bd25ea146e77e3b1b481.js.map

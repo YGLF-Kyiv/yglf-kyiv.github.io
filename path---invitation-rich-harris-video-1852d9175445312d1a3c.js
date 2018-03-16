@@ -1,2 +1,2 @@
-webpackJsonp([0xfa4a943bf25],{"./node_modules/json-loader/index.js!./.cache/json/invitation-rich-harris-video.json":function(i,a){i.exports={data:{invitation:{id:"rich_harris",path:"rich_harris",video:"https://www.youtube.com/embed/TWW-PMvFXBU",name:"Rich"}},pathContext:{qpath:"rich_harris",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([0xfa4a943bf25],{547:function(a,i){a.exports={data:{invitation:{id:"rich_harris",path:"rich_harris",video:"https://www.youtube.com/embed/TWW-PMvFXBU",name:"Rich"}},pathContext:{qpath:"rich_harris",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-rich-harris-video-1852d9175445312d1a3c.js.map

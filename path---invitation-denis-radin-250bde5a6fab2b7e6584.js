@@ -1,2 +1,2 @@
-webpackJsonp([0x9149b05040e5],{496:function(n,e){n.exports={data:{invitation:{id:"denis_radin",path:"denis_radin",video:"https://www.youtube.com/embed/xC5VIjz2Cok",name:"Denis"}},pathContext:{qpath:"denis_radin",ignoreInSitemap:!0}}}});
+webpackJsonp([0x9149b05040e5],{500:function(n,e){n.exports={data:{invitation:{id:"denis_radin",path:"denis_radin",video:"https://www.youtube.com/embed/xC5VIjz2Cok",name:"Denis"}},pathContext:{qpath:"denis_radin",ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-denis-radin-250bde5a6fab2b7e6584.js.map

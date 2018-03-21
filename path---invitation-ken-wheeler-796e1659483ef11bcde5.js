@@ -1,0 +1,2 @@
+webpackJsonp([0xcf2d5d07370e],{528:function(e,n){e.exports={data:{invitation:{id:"ken_wheeler",path:"ken_wheeler",video:"https://www.youtube.com/embed/JgvnLQqEEjg",name:"Ken"}},pathContext:{qpath:"ken_wheeler",ignoreInSitemap:!0}}}});
+//# sourceMappingURL=path---invitation-ken-wheeler-796e1659483ef11bcde5.js.map

@@ -3,7 +3,7 @@
 <url> <loc>http://yglf.com.ua/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://yglf.com.ua/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://yglf.com.ua/speakers</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://yglf.com.ua/sponsorship</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://yglf.com.ua/sponsors</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://yglf.com.ua/tickets</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://yglf.com.ua/diversity</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://yglf.com.ua/code-of-conduct</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>

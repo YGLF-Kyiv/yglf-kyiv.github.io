@@ -1,2 +1,2 @@
-webpackJsonp([0xafa84c6bad7b],{515:function(t,e){t.exports={data:{invitation:{id:"henry_zhu",path:"henry_zhu",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Henry"}},pathContext:{qpath:"henry_zhu",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([0xafa84c6bad7b],{"./node_modules/json-loader/index.js!./.cache/json/invitation-henry-zhu-video.json":function(e,n){e.exports={data:{invitation:{id:"henry_zhu",path:"henry_zhu",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Henry"}},pathContext:{qpath:"henry_zhu",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-henry-zhu-video-adf9dd7e275f66b8033f.js.map

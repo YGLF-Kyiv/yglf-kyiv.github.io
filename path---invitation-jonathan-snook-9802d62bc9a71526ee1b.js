@@ -1,2 +1,2 @@
-webpackJsonp([56334972146711],{524:function(n,o){n.exports={data:{invitation:{id:"jonathan_snook",path:"jonathan_snook",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Jonathan"}},pathContext:{qpath:"jonathan_snook",ignoreInSitemap:!0}}}});
+webpackJsonp([56334972146711],{"./node_modules/json-loader/index.js!./.cache/json/invitation-jonathan-snook.json":function(n,o){n.exports={data:{invitation:{id:"jonathan_snook",path:"jonathan_snook",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Jonathan"}},pathContext:{qpath:"jonathan_snook",ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-jonathan-snook-9802d62bc9a71526ee1b.js.map

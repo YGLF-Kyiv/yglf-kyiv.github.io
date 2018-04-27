@@ -13,8 +13,8 @@
       "path---invitation-eric-meyer-b1391a0313adccd5e63c.js.map"
     ],
     "component---src-pages-speakers-js": [
-      "component---src-pages-speakers-js-3686bd01b41071300766.js",
-      "component---src-pages-speakers-js-3686bd01b41071300766.js.map"
+      "component---src-pages-speakers-js-b4dd602117e769f1adc9.js",
+      "component---src-pages-speakers-js-b4dd602117e769f1adc9.js.map"
     ],
     "path---invitation-rich-harris-video": [
       "path---invitation-rich-harris-video-1852d9175445312d1a3c.js",
@@ -69,16 +69,16 @@
       "path---invitation-nicholas-zakas-70f92c0501d785d4e749.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-a4d238b9a052261fcb45.js",
-      "component---src-pages-index-js-a4d238b9a052261fcb45.js.map"
+      "component---src-pages-index-js-4d246562dc5c6f9f22a9.js",
+      "component---src-pages-index-js-4d246562dc5c6f9f22a9.js.map"
     ],
     "path---invitation-tom-dale-video": [
       "path---invitation-tom-dale-video-f7ed52a9c60d988f705b.js",
       "path---invitation-tom-dale-video-f7ed52a9c60d988f705b.js.map"
     ],
     "component---src-layouts-invitation-js": [
-      "component---src-layouts-invitation-js-6a9e79f4855f38d7f7ed.js",
-      "component---src-layouts-invitation-js-6a9e79f4855f38d7f7ed.js.map"
+      "component---src-layouts-invitation-js-faaa9ad4f563b02a8dd3.js",
+      "component---src-layouts-invitation-js-faaa9ad4f563b02a8dd3.js.map"
     ],
     "component---src-pages-diversity-js": [
       "component---src-pages-diversity-js-7547835215b0c13f4f55.js",
@@ -105,8 +105,8 @@
       "path---invitation-christoph-nakazawa-video-44c75c0f7122b485a6b3.js.map"
     ],
     "component---src-pages-schedule-js": [
-      "component---src-pages-schedule-js-07360428263770825b88.js",
-      "component---src-pages-schedule-js-07360428263770825b88.js.map"
+      "component---src-pages-schedule-js-3dfedf153301011d7522.js",
+      "component---src-pages-schedule-js-3dfedf153301011d7522.js.map"
     ],
     "path---invitation-jonathan-snook": [
       "path---invitation-jonathan-snook-9802d62bc9a71526ee1b.js",
@@ -117,8 +117,8 @@
       "path---invitation-sindre-sorhus-video-653ba03cf3e038ab4aa8.js.map"
     ],
     "path---": [
-      "path----b399d76988b174ef99b1.js",
-      "path----b399d76988b174ef99b1.js.map"
+      "path----8c675e927830c9be9fe9.js",
+      "path----8c675e927830c9be9fe9.js.map"
     ],
     "path---invitation-stoyan-stefanov-video": [
       "path---invitation-stoyan-stefanov-video-2aa0bc13057382daca17.js",
@@ -136,6 +136,10 @@
       "path---invitation-dominic-gannaway-76c7c48f11f6fe24a5f3.js",
       "path---invitation-dominic-gannaway-76c7c48f11f6fe24a5f3.js.map"
     ],
+    "component---src-pages-promo-js": [
+      "component---src-pages-promo-js-179c2c785a1067b16cca.js",
+      "component---src-pages-promo-js-179c2c785a1067b16cca.js.map"
+    ],
     "path---invitation-andrey-okonetchnikov": [
       "path---invitation-andrey-okonetchnikov-5276620bb5ea4040957b.js",
       "path---invitation-andrey-okonetchnikov-5276620bb5ea4040957b.js.map"
@@ -147,6 +151,10 @@
     "path---invitation-cheng-lou": [
       "path---invitation-cheng-lou-d9c57e3acf2117ea5696.js",
       "path---invitation-cheng-lou-d9c57e3acf2117ea5696.js.map"
+    ],
+    "component---src-layouts-promo-js": [
+      "component---src-layouts-promo-js-71554e1190a329b82a40.js",
+      "component---src-layouts-promo-js-71554e1190a329b82a40.js.map"
     ],
     "path---invitation-steve-souders": [
       "path---invitation-steve-souders-5b62f623095d1517ad4b.js",
@@ -248,6 +256,10 @@
       "path---invitation-nicholas-zakas-video-1dd2a9cc40c9a33d14ce.js",
       "path---invitation-nicholas-zakas-video-1dd2a9cc40c9a33d14ce.js.map"
     ],
+    "component---src-pages-dou-js": [
+      "component---src-pages-dou-js-d537ddfa3b0b9ce431f1.js",
+      "component---src-pages-dou-js-d537ddfa3b0b9ce431f1.js.map"
+    ],
     "path---invitation-steve-souders-video": [
       "path---invitation-steve-souders-video-7a423fa026fa2f7f6a6a.js",
       "path---invitation-steve-souders-video-7a423fa026fa2f7f6a6a.js.map"
@@ -320,6 +332,10 @@
       "path---invitation-michel-weststrate-7ec079c75eb801bba257.js",
       "path---invitation-michel-weststrate-7ec079c75eb801bba257.js.map"
     ],
+    "path---dou": [
+      "path---dou-a0e39f21c11f6a62c5ab.js",
+      "path---dou-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
@@ -347,6 +363,10 @@
     "path---invitation-henry-zhu-video": [
       "path---invitation-henry-zhu-video-adf9dd7e275f66b8033f.js",
       "path---invitation-henry-zhu-video-adf9dd7e275f66b8033f.js.map"
+    ],
+    "path---promo": [
+      "path---promo-a0e39f21c11f6a62c5ab.js",
+      "path---promo-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---invitation-vitaly-friedman": [
       "path---invitation-vitaly-friedman-8c7f7280c5534b8c3387.js",
@@ -437,9 +457,9 @@
       "path---speakers-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-373505074777fa64dbfb.js",
+      "app-00c572b9b14ff5a5e71d.js",
       "build-js-styles.css",
-      "app-373505074777fa64dbfb.js.map",
+      "app-00c572b9b14ff5a5e71d.js.map",
       "build-js-styles.css.map"
     ],
     "path---invitation-vyacheslav-egorov": [
@@ -527,8 +547,8 @@
       "path---invitation-hui-jing-video-22d34317cb670b97e014.js.map"
     ],
     "component---src-layouts-simple-js": [
-      "component---src-layouts-simple-js-3fa7767acecdf6b1c8f5.js",
-      "component---src-layouts-simple-js-3fa7767acecdf6b1c8f5.js.map"
+      "component---src-layouts-simple-js-2c74468f21dea7d1ae08.js",
+      "component---src-layouts-simple-js-2c74468f21dea7d1ae08.js.map"
     ],
     "path---invitation-addy-osmani": [
       "path---invitation-addy-osmani-153a8cce10addc9849a1.js",

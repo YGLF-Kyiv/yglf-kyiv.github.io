@@ -1,2 +1,2 @@
-webpackJsonp([0xe336c4b563ff],{"./node_modules/json-loader/index.js!./.cache/json/invitation-facebook-video.json":function(o,e){o.exports={data:{invitation:{id:"facebook",path:"facebook",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Facebook People"}},pathContext:{qpath:"facebook",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([0xe336c4b563ff],{524:function(o,e){o.exports={data:{invitation:{id:"facebook",path:"facebook",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Facebook People"}},pathContext:{qpath:"facebook",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-facebook-video-438ef395785304aa5f4a.js.map

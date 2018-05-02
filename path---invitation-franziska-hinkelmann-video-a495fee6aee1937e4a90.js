@@ -1,2 +1,2 @@
-webpackJsonp([0x6e3f1c48226a],{"./node_modules/json-loader/index.js!./.cache/json/invitation-franziska-hinkelmann-video.json":function(n,a){n.exports={data:{invitation:{id:"franziska_hinkelmann",path:"franziska_hinkelmann",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Franziska"}},pathContext:{qpath:"franziska_hinkelmann",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([0x6e3f1c48226a],{526:function(a,n){a.exports={data:{invitation:{id:"franziska_hinkelmann",path:"franziska_hinkelmann",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Franziska"}},pathContext:{qpath:"franziska_hinkelmann",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-franziska-hinkelmann-video-a495fee6aee1937e4a90.js.map

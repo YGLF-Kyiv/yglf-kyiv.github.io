@@ -1,2 +1,2 @@
-webpackJsonp([18905591227557],{"./node_modules/json-loader/index.js!./.cache/json/invitation-jason-miller-video.json":function(o,n){o.exports={data:{invitation:{id:"jason_miller",path:"jason_miller",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Jason"}},pathContext:{qpath:"jason_miller",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([18905591227557],{572:function(t,a){t.exports={data:{invitation:{id:"jason_miller",path:"jason_miller",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Jason"}},pathContext:{qpath:"jason_miller",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-jason-miller-video-d1ba036e8b7309b2e193.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0x6879a45eb0b1],{"./node_modules/json-loader/index.js!./.cache/json/tickets.json":function(e,o){e.exports={pathContext:{}}}});
+webpackJsonp([0x6879a45eb0b1],{640:function(t,e){t.exports={pathContext:{}}}});
 //# sourceMappingURL=path---tickets-a0e39f21c11f6a62c5ab.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([93749204805251],{"./node_modules/json-loader/index.js!./.cache/json/invitation-cheng-lou.json":function(n,o){n.exports={data:{invitation:{id:"cheng_lou",path:"cheng_lou",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Cheng Lou"}},pathContext:{qpath:"cheng_lou",ignoreInSitemap:!0}}}});
+webpackJsonp([93749204805251],{539:function(e,t){e.exports={data:{invitation:{id:"cheng_lou",path:"cheng_lou",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Cheng Lou"}},pathContext:{qpath:"cheng_lou",ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-cheng-lou-d9c57e3acf2117ea5696.js.map

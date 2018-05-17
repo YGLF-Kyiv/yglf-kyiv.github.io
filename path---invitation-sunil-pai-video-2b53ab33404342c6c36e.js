@@ -1,2 +1,2 @@
-webpackJsonp([0x69f9c72f8203],{622:function(i,t){i.exports={data:{invitation:{id:"sunil_pai",path:"sunil_pai",video:"https://www.youtube.com/embed/4_oZiubegw4",name:"Sunil"}},pathContext:{qpath:"sunil_pai",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([0x69f9c72f8203],{584:function(i,t){i.exports={data:{invitation:{id:"sunil_pai",path:"sunil_pai",video:"https://www.youtube.com/embed/4_oZiubegw4",name:"Sunil"}},pathContext:{qpath:"sunil_pai",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-sunil-pai-video-2b53ab33404342c6c36e.js.map

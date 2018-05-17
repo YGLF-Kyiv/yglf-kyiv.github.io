@@ -1,2 +1,2 @@
-webpackJsonp([0xee4faa34e92d],{561:function(a,e){a.exports={data:{invitation:{id:"evan_you",path:"evan_you",video:"https://www.youtube.com/embed/Wg-Da6MTJDQ",name:"Evan"}},pathContext:{qpath:"evan_you",ignoreInSitemap:!0}}}});
+webpackJsonp([0xee4faa34e92d],{523:function(a,e){a.exports={data:{invitation:{id:"evan_you",path:"evan_you",video:"https://www.youtube.com/embed/Wg-Da6MTJDQ",name:"Evan"}},pathContext:{qpath:"evan_you",ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-evan-you-eb9377f0fb730455c9d7.js.map

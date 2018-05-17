@@ -1,2 +1,2 @@
-webpackJsonp([0xcbaadba3076b],{605:function(a,i){a.exports={data:{invitation:{id:"paul_irish",path:"paul_irish",video:"https://www.youtube.com/embed/YBRkMMeiQhc",name:"Paul"}},pathContext:{qpath:"paul_irish",ignoreInSitemap:!0}}}});
+webpackJsonp([0xcbaadba3076b],{567:function(a,i){a.exports={data:{invitation:{id:"paul_irish",path:"paul_irish",video:"https://www.youtube.com/embed/YBRkMMeiQhc",name:"Paul"}},pathContext:{qpath:"paul_irish",ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-paul-irish-ec07f8f35c9378a0daaa.js.map

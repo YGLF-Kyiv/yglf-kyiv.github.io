@@ -1,2 +1,2 @@
-webpackJsonp([0x91a8b5c48d2d],{574:function(a,n){a.exports={data:{invitation:{id:"sean_larkin",path:"sean_larkin",video:"https://www.youtube.com/embed/UBqScHbk3Gc",name:"Sean"}},pathContext:{qpath:"sean_larkin",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([0x91a8b5c48d2d],{612:function(a,n){a.exports={data:{invitation:{id:"sean_larkin",path:"sean_larkin",video:"https://www.youtube.com/embed/UBqScHbk3Gc",name:"Sean"}},pathContext:{qpath:"sean_larkin",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-sean-larkin-video-a9d36fb67e81ffce8368.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0xd631d626221d],{559:function(i,o){i.exports={data:{invitation:{id:"mikhail_novikov",path:"mikhail_novikov",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Mikhail"}},pathContext:{qpath:"mikhail_novikov",ignoreInSitemap:!0}}}});
+webpackJsonp([0xd631d626221d],{597:function(i,o){i.exports={data:{invitation:{id:"mikhail_novikov",path:"mikhail_novikov",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Mikhail"}},pathContext:{qpath:"mikhail_novikov",ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-mikhail-novikov-c108659ea3cf743d26c3.js.map

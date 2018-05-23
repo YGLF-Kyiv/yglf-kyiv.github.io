@@ -1,2 +1,2 @@
-webpackJsonp([0x6e3f1c48226a],{564:function(a,n){a.exports={data:{invitation:{id:"franziska_hinkelmann",path:"franziska_hinkelmann",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Franziska"}},pathContext:{qpath:"franziska_hinkelmann",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([0x6e3f1c48226a],{568:function(a,n){a.exports={data:{invitation:{id:"franziska_hinkelmann",path:"franziska_hinkelmann",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Franziska"}},pathContext:{qpath:"franziska_hinkelmann",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-franziska-hinkelmann-video-a495fee6aee1937e4a90.js.map

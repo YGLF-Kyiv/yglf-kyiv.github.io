@@ -1,2 +1,2 @@
-webpackJsonp([0xf1188cc0c463],{578:function(e,t){e.exports={data:{invitation:{id:"ken_wheeler",path:"ken_wheeler",video:"https://www.youtube.com/embed/JgvnLQqEEjg",name:"Ken"}},pathContext:{qpath:"ken_wheeler",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([0xf1188cc0c463],{582:function(e,t){e.exports={data:{invitation:{id:"ken_wheeler",path:"ken_wheeler",video:"https://www.youtube.com/embed/JgvnLQqEEjg",name:"Ken"}},pathContext:{qpath:"ken_wheeler",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-ken-wheeler-video-579e32830fb7125f6c6d.js.map

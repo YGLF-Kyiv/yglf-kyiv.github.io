@@ -1,2 +1,2 @@
-webpackJsonp([0xf296cfd7e535],{608:function(a,t){a.exports={data:{invitation:{id:"sara_soueidan",path:"sara_soueidan",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Sara"}},pathContext:{qpath:"sara_soueidan",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([0xf296cfd7e535],{612:function(a,t){a.exports={data:{invitation:{id:"sara_soueidan",path:"sara_soueidan",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Sara"}},pathContext:{qpath:"sara_soueidan",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-sara-soueidan-video-2363d00b4ae79cd20294.js.map

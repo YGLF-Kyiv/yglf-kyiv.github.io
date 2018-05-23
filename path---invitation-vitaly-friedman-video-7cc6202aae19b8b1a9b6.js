@@ -1,2 +1,2 @@
-webpackJsonp([0x9455978ff724],{630:function(t,a){t.exports={data:{invitation:{id:"vitaly_friedman",path:"vitaly_friedman",video:"https://www.youtube.com/embed/Wn437FOix10",name:"Vitaly"}},pathContext:{qpath:"vitaly_friedman",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([0x9455978ff724],{634:function(t,a){t.exports={data:{invitation:{id:"vitaly_friedman",path:"vitaly_friedman",video:"https://www.youtube.com/embed/Wn437FOix10",name:"Vitaly"}},pathContext:{qpath:"vitaly_friedman",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-vitaly-friedman-video-7cc6202aae19b8b1a9b6.js.map

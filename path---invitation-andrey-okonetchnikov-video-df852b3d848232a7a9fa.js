@@ -1,2 +1,2 @@
-webpackJsonp([0xf8e458d5ed80],{532:function(e,n){e.exports={data:{invitation:{id:"andrey_okonetchnikov",path:"andrey_okonetchnikov",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Andrey"}},pathContext:{qpath:"andrey_okonetchnikov",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([0xf8e458d5ed80],{536:function(e,n){e.exports={data:{invitation:{id:"andrey_okonetchnikov",path:"andrey_okonetchnikov",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Andrey"}},pathContext:{qpath:"andrey_okonetchnikov",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-andrey-okonetchnikov-video-df852b3d848232a7a9fa.js.map

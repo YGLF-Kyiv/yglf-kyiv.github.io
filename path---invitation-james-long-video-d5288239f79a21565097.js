@@ -1,2 +1,2 @@
-webpackJsonp([90671019276419],{574:function(t,a){t.exports={data:{invitation:{id:"james_long",path:"james_long",video:"https://www.youtube.com/embed/LV83ipO0iFM",name:"James"}},pathContext:{qpath:"james_long",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([90671019276419],{536:function(t,a){t.exports={data:{invitation:{id:"james_long",path:"james_long",video:"https://www.youtube.com/embed/LV83ipO0iFM",name:"James"}},pathContext:{qpath:"james_long",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-james-long-video-d5288239f79a21565097.js.map

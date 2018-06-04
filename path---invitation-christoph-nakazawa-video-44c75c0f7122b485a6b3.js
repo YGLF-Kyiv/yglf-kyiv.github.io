@@ -1,2 +1,2 @@
-webpackJsonp([51387243348312],{548:function(a,t){a.exports={data:{invitation:{id:"christoph_nakazawa",path:"christoph_nakazawa",video:"https://www.youtube.com/embed/RNvRQ4GtOVQ",name:"Christoph"}},pathContext:{qpath:"christoph_nakazawa",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([51387243348312],{510:function(a,t){a.exports={data:{invitation:{id:"christoph_nakazawa",path:"christoph_nakazawa",video:"https://www.youtube.com/embed/RNvRQ4GtOVQ",name:"Christoph"}},pathContext:{qpath:"christoph_nakazawa",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-christoph-nakazawa-video-44c75c0f7122b485a6b3.js.map

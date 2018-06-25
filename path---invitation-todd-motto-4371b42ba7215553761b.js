@@ -1,2 +1,2 @@
-webpackJsonp([0xadbd145e7519],{591:function(t,o){t.exports={data:{invitation:{id:"todd_motto",path:"todd_motto",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Todd"}},pathContext:{qpath:"todd_motto",ignoreInSitemap:!0}}}});
+webpackJsonp([0xadbd145e7519],{629:function(t,o){t.exports={data:{invitation:{id:"todd_motto",path:"todd_motto",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Todd"}},pathContext:{qpath:"todd_motto",ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-todd-motto-4371b42ba7215553761b.js.map

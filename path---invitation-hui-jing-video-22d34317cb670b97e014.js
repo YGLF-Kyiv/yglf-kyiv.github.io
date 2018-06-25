@@ -1,2 +1,2 @@
-webpackJsonp([0xf6b13fc81453],{534:function(i,t){i.exports={data:{invitation:{id:"hui_jing",path:"hui_jing",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Hui Jing"}},pathContext:{qpath:"hui_jing",track:!0,ignoreInSitemap:!0}}}});
+webpackJsonp([0xf6b13fc81453],{572:function(i,t){i.exports={data:{invitation:{id:"hui_jing",path:"hui_jing",video:"https://www.youtube.com/embed/Sp_TJHL5ThQ",name:"Hui Jing"}},pathContext:{qpath:"hui_jing",track:!0,ignoreInSitemap:!0}}}});
 //# sourceMappingURL=path---invitation-hui-jing-video-22d34317cb670b97e014.js.map
